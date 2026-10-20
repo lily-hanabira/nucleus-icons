@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>alien-monster</title>
+  <path fill="#1e2430" d="M4 2h1v1h-1zM10 2h1v1h-1zM3 3h1v1h-1zM5 3h1v1h-1zM9 3h1v1h-1zM11 3h1v1h-1zM4 4h1v1h-1zM6 4h3v1h-3zM10 4h1v1h-1zM3 5h1v1h-1zM11 5h1v1h-1zM2 6h1v1h-1zM12 6h1v1h-1zM1 7h1v3h-1zM13 7h1v3h-1zM3 8h1v2h-1zM11 8h1v2h-1zM5 9h5v1h-5zM2 10h1v1h-1zM4 10h1v1h-1zM7 10h1v1h-1zM10 10h1v1h-1zM12 10h1v1h-1zM5 11h2v1h-2zM8 11h2v1h-2z"/>
+  <path fill="#4a2a8a" d="M4 3h1v1h-1zM10 3h1v1h-1zM5 5h1v1h-1zM9 5h1v1h-1zM4 6h1v1h-1zM8 6h1v1h-1zM3 7h1v1h-1zM11 7h1v1h-1zM2 8h1v2h-1zM5 8h6v1h-6zM12 8h1v2h-1zM4 9h1v1h-1zM10 9h1v1h-1zM5 10h2v1h-2zM8 10h2v1h-2z"/>
+  <path fill="#a98ae6" d="M5 4h1v1h-1zM9 4h1v1h-1zM4 5h1v1h-1zM6 5h3v1h-3zM10 5h1v2h-1zM3 6h1v1h-1zM6 6h1v1h-1zM11 6h1v1h-1zM2 7h1v1h-1zM5 7h1v1h-1zM9 7h1v1h-1zM12 7h1v1h-1zM4 8h1v1h-1z"/>
+  <path fill="#ffffff" d="M5 6h1v1h-1zM9 6h1v1h-1z"/>
+  <path fill="#7a4cc9" d="M7 6h1v2h-1zM4 7h1v1h-1zM6 7h1v1h-1zM8 7h1v1h-1zM10 7h1v1h-1z"/>
+</svg>

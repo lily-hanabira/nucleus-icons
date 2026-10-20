@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>usb</title>
+  <path fill="#1e2430" d="M11 8h19v1h-19zM11 9h1v15h-1zM29 9h1v15h-1zM2 10h9v1h-9zM2 11h1v11h-1zM23 11h2v2h-2zM22 12h1v1h-1zM5 13h4v2h-4zM15 13h3v1h-3zM21 13h1v1h-1zM14 14h1v3h-1zM18 14h1v3h-1zM20 14h1v3h-1zM25 14h1v3h-1zM19 15h1v1h-1zM21 15h4v1h-4zM26 15h1v1h-1zM5 17h4v2h-4zM15 17h3v1h-3zM21 17h1v1h-1zM22 18h4v1h-4zM24 19h1v1h-1zM3 21h8v1h-8zM12 23h17v1h-17z"/>
+  <path fill="#dde1e8" d="M12 9h17v1h-17zM12 10h1v12h-1zM4 12h6v1h-6zM4 13h1v7h-1zM9 13h1v7h-1zM5 15h4v2h-4zM5 19h4v1h-4z"/>
+  <path fill="#b8bec9" d="M13 10h15v1h-15zM13 11h10v1h-10zM25 11h3v3h-3zM10 12h1v9h-1zM13 12h9v1h-9zM13 13h2v1h-2zM18 13h3v1h-3zM22 13h3v2h-3zM13 14h1v8h-1zM15 14h3v3h-3zM19 14h1v1h-1zM21 14h1v1h-1zM26 14h2v1h-2zM27 15h1v7h-1zM19 16h1v6h-1zM21 16h4v1h-4zM26 16h1v6h-1zM14 17h1v5h-1zM18 17h1v5h-1zM20 17h1v5h-1zM22 17h4v1h-4zM15 18h3v4h-3zM21 18h1v4h-1zM22 19h2v3h-2zM25 19h1v3h-1zM3 20h7v1h-7zM24 20h1v2h-1z"/>
+  <path fill="#8a92a4" d="M28 10h1v13h-1zM12 22h16v1h-16z"/>
+  <path fill="#f4f6f8" d="M3 11h8v1h-8zM3 12h1v8h-1z"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>line-thickness</title>
+  <path fill="#f4f6f8" d="M4 4h24v1h-24zM4 5h1v2h-1zM27 5h1v2h-1zM5 6h22v1h-22zM4 11h24v1h-24zM4 12h1v4h-1zM27 12h1v4h-1zM5 15h22v1h-22zM4 20h24v1h-24zM4 21h1v6h-1zM27 21h1v6h-1zM5 26h22v1h-22z"/>
+  <path fill="#1e2430" d="M5 5h22v1h-22zM5 12h22v3h-22zM5 21h22v5h-22z"/>
+</svg>

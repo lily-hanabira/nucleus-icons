@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>drive</title>
+  <path fill="#1e2430" d="M2 7h28v1h-28zM2 8h1v17h-1zM29 8h1v17h-1zM3 24h26v1h-26z"/>
+  <path fill="#dde1e8" d="M3 8h26v1h-26zM3 9h1v14h-1z"/>
+  <path fill="#b8bec9" d="M4 9h24v2h-24zM4 11h1v12h-1zM19 11h9v7h-9zM5 13h14v5h-14zM21 18h3v5h-3zM26 18h2v5h-2zM5 19h16v1h-16zM24 20h2v1h-2zM5 21h16v2h-16zM24 22h2v1h-2z"/>
+  <path fill="#8a92a4" d="M28 9h1v15h-1zM5 11h14v2h-14zM3 23h25v1h-25z"/>
+  <path fill="#5c6478" d="M5 18h16v1h-16zM5 20h16v1h-16z"/>
+  <path fill="#5ac85a" d="M24 18h2v2h-2z"/>
+  <path fill="#f5b83c" d="M24 21h2v1h-2z"/>
+</svg>

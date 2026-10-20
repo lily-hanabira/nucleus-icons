@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>folder-closed</title>
+  <path fill="#1e2430" d="M1 2h7v1h-7zM1 3h1v1h-1zM7 3h1v1h-1zM8 4h7v1h-7zM1 5h1v9h-1zM14 5h1v9h-1zM2 7h12v1h-12zM2 13h12v1h-12z"/>
+  <path fill="#d9ab5a" d="M2 3h5v2h-5zM13 6h1v1h-1zM3 9h10v3h-10z"/>
+  <path fill="#faecc8" d="M2 5h12v1h-12zM2 6h1v1h-1z"/>
+  <path fill="#f0d6a0" d="M3 6h10v1h-10zM2 8h12v1h-12zM2 9h1v3h-1z"/>
+  <path fill="#a87836" d="M13 9h1v4h-1zM2 12h11v1h-11z"/>
+</svg>

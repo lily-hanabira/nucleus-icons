@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>export</title>
+  <path fill="#1e2430" d="M3 1h7v1h-7zM3 2h1v12h-1zM10 2h1v1h-1zM11 3h1v1h-1zM12 4h1v3h-1zM11 5h1v3h-1zM6 7h5v1h-5zM13 7h1v1h-1zM6 8h1v2h-1zM14 8h1v1h-1zM7 9h5v1h-5zM13 9h1v1h-1zM11 10h2v2h-2zM12 12h1v2h-1zM4 13h8v1h-8z"/>
+  <path fill="#ffffff" d="M4 2h5v1h-5zM4 3h4v1h-4zM4 4h1v8h-1zM5 5h6v2h-6zM5 7h1v5h-1zM6 10h5v2h-5z"/>
+  <path fill="#dde1e8" d="M9 2h1v2h-1zM10 3h1v1h-1zM11 4h1v1h-1z"/>
+  <path fill="#f4f6f8" d="M8 3h1v1h-1zM4 12h1v1h-1zM11 12h1v1h-1z"/>
+  <path fill="#8a92a4" d="M5 4h6v1h-6zM5 12h6v1h-6z"/>
+  <path fill="#5ac85a" d="M12 7h1v1h-1z"/>
+  <path fill="#1f6b2a" d="M7 8h4v1h-4zM13 8h1v1h-1zM12 9h1v1h-1z"/>
+  <path fill="#2f9a3a" d="M11 8h2v1h-2z"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>water-pistol</title>
+  <path fill="#1e2430" d="M9 4h12v1h-12zM8 5h1v6h-1zM21 5h1v6h-1zM3 10h5v1h-5zM22 10h4v1h-4zM2 11h1v5h-1zM26 11h4v1h-4zM26 12h1v4h-1zM29 12h1v4h-1zM27 15h2v1h-2zM3 16h9v1h-9zM18 16h4v1h-4zM24 16h2v1h-2zM11 17h1v3h-1zM18 17h1v3h-1zM21 17h1v3h-1zM24 17h1v5h-1zM22 19h2v1h-2zM10 20h1v3h-1zM17 20h1v3h-1zM18 21h6v1h-6zM9 23h1v3h-1zM16 23h1v3h-1zM8 26h1v4h-1zM15 26h1v4h-1zM9 29h6v1h-6z"/>
+  <path fill="#9ad3fa" d="M9 5h12v1h-12zM9 6h1v4h-1zM27 12h2v1h-2zM27 13h1v1h-1z"/>
+  <path fill="#5cb0f2" d="M10 6h10v4h-10z"/>
+  <path fill="#2f86e0" d="M20 6h1v5h-1zM9 10h11v1h-11zM28 13h1v2h-1zM27 14h1v1h-1z"/>
+  <path fill="#a9ea9a" d="M3 11h23v1h-23zM3 12h1v3h-1zM12 16h1v4h-1zM11 20h1v3h-1zM10 23h1v3h-1zM9 26h1v2h-1z"/>
+  <path fill="#5ac85a" d="M4 12h21v3h-21zM12 15h6v1h-6zM13 16h4v4h-4zM12 20h4v3h-4zM11 23h4v3h-4zM10 26h4v2h-4z"/>
+  <path fill="#2f9a3a" d="M25 12h1v4h-1zM3 15h9v1h-9zM18 15h7v1h-7zM17 16h1v4h-1zM16 20h1v3h-1zM15 23h1v3h-1zM14 26h1v3h-1zM9 28h5v1h-5z"/>
+  <path fill="#f5b83c" d="M22 16h2v1h-2zM22 17h1v1h-1z"/>
+  <path fill="#a85c10" d="M23 17h1v2h-1zM22 18h1v1h-1z"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>fish</title>
+  <path fill="#1e2430" d="M6 4h3v2h-3zM13 4h1v2h-1zM3 5h3v1h-3zM9 5h1v1h-1zM2 6h1v4h-1zM10 6h1v1h-1zM12 6h1v1h-1zM4 7h1v1h-1zM11 7h1v2h-1zM10 9h1v1h-1zM12 9h1v1h-1zM3 10h7v1h-7zM13 10h1v2h-1z"/>
+  <path fill="#f5b83c" d="M3 6h6v1h-6zM3 7h1v2h-1zM10 7h1v1h-1zM12 7h1v1h-1z"/>
+  <path fill="#a85c10" d="M9 6h1v4h-1zM13 6h1v4h-1zM10 8h1v1h-1zM12 8h1v1h-1zM3 9h6v1h-6z"/>
+  <path fill="#e08a1c" d="M5 7h4v2h-4zM4 8h1v1h-1z"/>
+</svg>

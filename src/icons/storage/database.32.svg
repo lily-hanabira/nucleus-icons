@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>database</title>
+  <path fill="#1e2430" d="M5 4h22v1h-22zM4 5h1v22h-1zM27 5h1v22h-1zM5 9h22v1h-22zM5 27h22v1h-22z"/>
+  <path fill="#d9c9f5" d="M5 5h22v1h-22zM5 6h21v2h-21zM5 10h22v1h-22zM5 11h1v15h-1z"/>
+  <path fill="#a98ae6" d="M26 6h1v3h-1zM5 8h21v1h-21zM6 11h20v4h-20zM6 15h1v11h-1zM25 15h1v11h-1zM7 16h18v5h-18zM7 22h18v4h-18z"/>
+  <path fill="#7a4cc9" d="M26 11h1v16h-1zM7 15h18v1h-18zM7 21h18v1h-18zM5 26h21v1h-21z"/>
+</svg>

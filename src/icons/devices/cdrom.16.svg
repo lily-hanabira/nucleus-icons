@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>cdrom</title>
+  <path fill="#1e2430" d="M5 1h6v1h-6zM4 2h2v1h-2zM10 2h2v1h-2zM3 3h1v1h-1zM12 3h1v1h-1zM2 4h1v2h-1zM13 4h1v2h-1zM1 5h1v6h-1zM14 5h1v6h-1zM7 6h2v1h-2zM6 7h1v2h-1zM9 7h1v2h-1zM7 9h2v1h-2zM2 10h1v2h-1zM13 10h1v2h-1zM3 12h1v1h-1zM12 12h1v1h-1zM4 13h2v1h-2zM10 13h2v1h-2zM5 14h6v1h-6z"/>
+  <path fill="#f4f6f8" d="M6 2h4v2h-4zM4 3h2v2h-2zM10 3h2v2h-2zM3 4h1v7h-1zM12 4h1v1h-1zM4 5h1v1h-1zM11 5h1v1h-1zM2 6h1v3h-1zM12 6h2v1h-2zM12 7h1v3h-1zM4 10h1v2h-1zM11 10h1v2h-1zM5 11h1v1h-1zM10 11h1v1h-1zM6 12h4v1h-4z"/>
+  <path fill="#dde1e8" d="M6 4h4v1h-4zM5 5h1v1h-1zM10 5h1v1h-1zM4 6h1v4h-1zM11 6h1v4h-1zM5 10h1v1h-1zM10 10h1v1h-1zM6 11h4v1h-4z"/>
+  <path fill="#b8bec9" d="M6 5h4v1h-4zM12 5h1v1h-1zM5 6h2v1h-2zM9 6h2v1h-2zM5 7h1v3h-1zM10 7h1v3h-1zM13 7h1v3h-1zM2 9h1v1h-1zM6 9h1v2h-1zM9 9h1v2h-1zM7 10h2v1h-2zM12 10h1v2h-1zM3 11h1v1h-1zM4 12h2v1h-2zM10 12h2v1h-2zM6 13h4v1h-4z"/>
+</svg>

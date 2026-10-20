@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>melon</title>
+  <path fill="#1e2430" d="M13 3h6v1h-6zM14 4h4v5h-4zM12 8h2v1h-2zM18 8h2v1h-2zM10 9h2v1h-2zM20 9h2v1h-2zM8 10h2v1h-2zM22 10h2v1h-2zM7 11h1v1h-1zM24 11h1v1h-1zM6 12h1v1h-1zM25 12h1v1h-1zM5 13h1v2h-1zM26 13h1v2h-1zM4 15h1v6h-1zM27 15h1v6h-1zM5 21h1v2h-1zM26 21h1v2h-1zM6 23h1v1h-1zM25 23h1v1h-1zM7 24h1v1h-1zM24 24h1v1h-1zM8 25h2v1h-2zM22 25h2v1h-2zM10 26h2v1h-2zM20 26h2v1h-2zM12 27h8v1h-8z"/>
+  <path fill="#f4f6f8" d="M13 4h1v4h-1zM18 4h1v4h-1z"/>
+  <path fill="#a9ea9a" d="M12 9h8v1h-8zM10 10h2v1h-2zM20 10h2v1h-2zM8 11h2v1h-2zM22 11h2v1h-2zM7 12h1v1h-1zM9 12h1v3h-1zM24 12h1v1h-1zM6 13h1v2h-1zM25 13h1v1h-1zM5 15h1v5h-1zM26 15h1v1h-1zM6 21h1v1h-1z"/>
+  <path fill="#1f6b2a" d="M12 10h1v16h-1zM16 10h1v16h-1zM20 11h1v14h-1zM8 12h1v12h-1zM24 13h1v10h-1z"/>
+  <path fill="#5ac85a" d="M13 10h3v16h-3zM17 10h3v16h-3zM10 11h2v14h-2zM21 11h1v14h-1zM22 12h2v12h-2zM7 13h1v10h-1zM6 15h1v6h-1zM9 15h1v9h-1zM25 15h1v6h-1z"/>
+  <path fill="#2f9a3a" d="M25 14h1v1h-1zM26 16h1v5h-1zM5 20h1v1h-1zM25 21h1v2h-1zM6 22h1v1h-1zM7 23h1v1h-1zM24 23h1v1h-1zM8 24h2v1h-2zM22 24h2v1h-2zM10 25h2v1h-2zM20 25h2v1h-2zM12 26h8v1h-8z"/>
+</svg>

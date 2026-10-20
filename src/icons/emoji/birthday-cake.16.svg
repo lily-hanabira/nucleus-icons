@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>birthday-cake</title>
+  <path fill="#f4f6f8" d="M3 1h9v1h-9zM3 2h1v5h-1zM5 2h2v5h-2zM8 2h2v5h-2zM11 2h1v5h-1zM4 4h1v1h-1zM7 4h1v1h-1zM10 4h1v1h-1zM11 9h1v1h-1zM4 11h8v1h-8z"/>
+  <path fill="#f5b83c" d="M4 2h1v2h-1zM7 2h1v2h-1zM10 2h1v2h-1z"/>
+  <path fill="#cf2b2b" d="M4 5h1v2h-1zM10 5h1v2h-1z"/>
+  <path fill="#5ac85a" d="M7 5h1v2h-1z"/>
+  <path fill="#1e2430" d="M3 7h10v1h-10zM3 8h1v5h-1zM12 8h1v5h-1zM4 12h8v1h-8zM1 13h1v2h-1zM14 13h1v2h-1zM2 14h12v1h-12z"/>
+  <path fill="#ffffff" d="M4 8h8v1h-8zM4 9h7v1h-7z"/>
+  <path fill="#f9a89a" d="M4 10h8v1h-8z"/>
+  <path fill="#dde1e8" d="M2 13h12v1h-12z"/>
+</svg>

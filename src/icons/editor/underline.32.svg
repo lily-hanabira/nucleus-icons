@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>underline</title>
+  <path fill="#f4f6f8" d="M7 3h4v1h-4zM21 3h4v1h-4zM7 4h1v16h-1zM10 4h1v14h-1zM21 4h1v14h-1zM24 4h1v16h-1zM11 17h1v2h-1zM20 17h1v2h-1zM12 18h1v2h-1zM19 18h1v2h-1zM8 19h1v2h-1zM13 19h6v1h-6zM23 19h1v2h-1zM9 20h1v2h-1zM22 20h1v2h-1zM10 21h2v1h-2zM20 21h2v1h-2zM11 22h10v2h-10zM5 23h6v1h-6zM21 23h6v1h-6zM5 24h1v3h-1zM26 24h1v3h-1zM6 26h20v1h-20z"/>
+  <path fill="#1e2430" d="M8 4h2v15h-2zM22 4h2v15h-2zM10 18h1v3h-1zM21 18h1v3h-1zM9 19h1v1h-1zM11 19h1v2h-1zM20 19h1v2h-1zM22 19h1v1h-1zM12 20h8v2h-8z"/>
+  <path fill="#2f86e0" d="M6 24h20v2h-20z"/>
+</svg>

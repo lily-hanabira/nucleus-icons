@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>waveform</title>
+  <path fill="#f4f6f8" d="M7 5h6v1h-6zM6 6h2v1h-2zM12 6h2v1h-2zM5 7h2v1h-2zM13 7h2v1h-2zM4 8h2v1h-2zM9 8h2v2h-2zM14 8h2v1h-2zM4 9h1v2h-1zM8 9h1v2h-1zM11 9h1v2h-1zM15 9h1v2h-1zM3 10h1v3h-1zM7 10h1v2h-1zM12 10h1v2h-1zM16 10h1v3h-1zM6 11h1v3h-1zM13 11h1v3h-1zM2 12h1v3h-1zM17 12h1v3h-1zM5 13h1v3h-1zM14 13h1v3h-1zM1 14h1v4h-1zM18 14h1v3h-1zM4 15h1v3h-1zM15 15h1v3h-1zM19 16h1v3h-1zM28 16h3v1h-3zM2 17h2v1h-2zM16 17h1v3h-1zM28 17h1v2h-1zM30 17h1v5h-1zM20 18h1v3h-1zM27 18h1v3h-1zM17 19h1v3h-1zM21 20h1v2h-1zM26 20h1v2h-1zM18 21h1v3h-1zM22 21h1v2h-1zM25 21h1v2h-1zM29 21h1v3h-1zM23 22h2v2h-2zM19 23h1v2h-1zM28 23h1v2h-1zM20 24h1v2h-1zM27 24h1v2h-1zM21 25h1v2h-1zM26 25h1v2h-1zM22 26h4v1h-4z"/>
+  <path fill="#2f86e0" d="M8 6h4v2h-4zM7 7h1v3h-1zM12 7h1v3h-1zM6 8h1v3h-1zM8 8h1v1h-1zM11 8h1v1h-1zM13 8h1v3h-1zM5 9h1v4h-1zM14 9h1v4h-1zM4 11h1v4h-1zM15 11h1v4h-1zM3 13h1v4h-1zM16 13h1v4h-1zM2 15h1v2h-1zM17 15h1v4h-1zM18 17h1v4h-1zM29 17h1v4h-1zM19 19h1v4h-1zM28 19h1v4h-1zM20 21h1v3h-1zM27 21h1v3h-1zM21 22h1v3h-1zM26 22h1v3h-1zM22 23h1v3h-1zM25 23h1v3h-1zM23 24h2v2h-2z"/>
+  <path fill="#b8bec9" d="M5 16h10v1h-10zM20 16h8v1h-8z"/>
+</svg>

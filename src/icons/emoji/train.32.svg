@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>train</title>
+  <path fill="#1e2430" d="M8 2h16v1h-16zM8 3h1v3h-1zM23 3h1v3h-1zM9 4h14v2h-14zM6 5h2v1h-2zM24 5h2v1h-2zM6 6h1v19h-1zM25 6h1v19h-1zM8 7h16v1h-16zM8 8h1v7h-1zM15 8h2v7h-2zM23 8h1v7h-1zM9 14h6v1h-6zM17 14h6v1h-6zM14 16h4v1h-4zM13 17h2v1h-2zM17 17h2v1h-2zM13 18h1v3h-1zM18 18h1v3h-1zM7 20h4v2h-4zM14 20h1v2h-1zM17 20h1v2h-1zM21 20h4v2h-4zM15 21h2v1h-2zM7 23h18v2h-18zM4 24h2v1h-2zM26 24h2v1h-2zM4 25h1v3h-1zM27 25h1v3h-1zM2 26h2v2h-2zM5 26h22v2h-22zM28 26h2v2h-2z"/>
+  <path fill="#8a92a4" d="M9 3h14v1h-14zM5 25h22v1h-22z"/>
+  <path fill="#5cb0f2" d="M7 6h18v1h-18zM7 7h1v13h-1z"/>
+  <path fill="#1f5fb8" d="M24 7h1v13h-1zM7 22h18v1h-18z"/>
+  <path fill="#ffffff" d="M9 8h6v6h-6zM17 8h6v6h-6z"/>
+  <path fill="#2f86e0" d="M8 15h16v1h-16zM8 16h6v1h-6zM18 16h6v1h-6zM8 17h5v3h-5zM19 17h5v3h-5zM11 20h2v2h-2zM19 20h2v2h-2zM13 21h1v1h-1zM18 21h1v1h-1z"/>
+  <path fill="#fbe08a" d="M15 17h2v1h-2zM14 18h1v1h-1zM17 18h1v1h-1z"/>
+  <path fill="#f5b83c" d="M15 18h2v2h-2z"/>
+  <path fill="#e08a1c" d="M14 19h1v1h-1zM17 19h1v1h-1zM15 20h2v1h-2z"/>
+  <path fill="#5c6478" d="M2 28h6v2h-6zM24 28h6v2h-6z"/>
+</svg>

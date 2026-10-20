@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>tongue</title>
+  <path fill="#1e2430" d="M6 2h4v1h-4zM5 3h1v1h-1zM10 3h1v1h-1zM4 4h1v4h-1zM11 4h1v4h-1zM5 8h1v5h-1zM10 8h1v5h-1zM6 13h4v1h-4z"/>
+  <path fill="#f9a89a" d="M6 3h4v1h-4zM5 4h1v3h-1zM10 4h1v1h-1zM6 8h1v4h-1z"/>
+  <path fill="#ef5a4a" d="M6 4h1v4h-1zM8 4h2v4h-2zM8 8h1v4h-1z"/>
+  <path fill="#cf2b2b" d="M7 4h1v9h-1zM10 5h1v3h-1zM5 7h1v1h-1zM9 8h1v5h-1zM6 12h1v1h-1zM8 12h1v1h-1z"/>
+</svg>

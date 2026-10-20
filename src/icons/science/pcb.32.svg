@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>pcb</title>
+  <path fill="#1e2430" d="M2 4h28v1h-28zM2 5h1v23h-1zM29 5h1v23h-1zM12 12h8v1h-8zM12 13h1v7h-1zM14 13h6v7h-6zM13 14h1v6h-1zM3 27h26v1h-26z"/>
+  <path fill="#5ac85a" d="M3 5h11v1h-11zM16 5h13v1h-13zM3 6h1v20h-1z"/>
+  <path fill="#f5b83c" d="M14 5h2v2h-2zM8 6h2v2h-2zM4 13h2v2h-2zM25 13h2v2h-2zM25 22h2v2h-2zM7 24h2v2h-2zM15 25h2v2h-2z"/>
+  <path fill="#2f9a3a" d="M4 6h4v7h-4zM10 6h4v6h-4zM16 6h12v6h-12zM14 7h1v5h-1zM8 8h1v6h-1zM10 12h2v2h-2zM20 12h8v1h-8zM6 13h2v1h-2zM20 13h5v1h-5zM27 13h1v13h-1zM9 14h1v1h-1zM4 15h5v6h-5zM10 15h2v2h-2zM20 15h7v2h-7zM9 17h1v4h-1zM22 17h5v1h-5zM10 18h2v3h-2zM20 18h2v8h-2zM23 18h4v4h-4zM12 20h1v1h-1zM14 20h2v5h-2zM17 20h3v6h-3zM4 21h4v3h-4zM13 21h1v5h-1zM9 22h4v4h-4zM23 22h2v1h-2zM22 23h1v3h-1zM4 24h3v2h-3zM23 24h4v2h-4zM14 25h1v1h-1z"/>
+  <path fill="#1f6b2a" d="M28 6h1v21h-1zM3 26h12v1h-12zM17 26h11v1h-11z"/>
+  <path fill="#b8bec9" d="M15 7h1v5h-1zM9 8h1v6h-1zM6 14h3v1h-3zM10 14h2v1h-2zM20 14h5v1h-5zM9 15h1v2h-1zM10 17h2v1h-2zM20 17h2v1h-2zM22 18h1v5h-1zM13 20h1v1h-1zM16 20h1v5h-1zM8 21h5v1h-5zM8 22h1v2h-1zM23 23h2v1h-2z"/>
+  <path fill="#8a92a4" d="M13 13h1v1h-1z"/>
+</svg>

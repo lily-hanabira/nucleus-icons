@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>thermometer</title>
+  <path fill="#1e2430" d="M14 2h4v1h-4zM13 3h1v18h-1zM18 3h1v18h-1zM20 5h3v1h-3zM20 7h2v1h-2zM20 9h3v1h-3zM20 11h2v1h-2zM20 13h3v1h-3zM20 15h2v1h-2zM20 17h3v1h-3zM20 19h2v1h-2zM12 21h1v2h-1zM19 21h1v2h-1zM11 23h1v4h-1zM20 23h1v4h-1zM12 27h1v2h-1zM19 27h1v2h-1zM13 28h1v1h-1zM18 28h1v1h-1zM14 29h4v1h-4z"/>
+  <path fill="#ffffff" d="M14 3h4v1h-4zM14 4h1v17h-1zM13 21h1v1h-1zM18 21h1v1h-1z"/>
+  <path fill="#f4f6f8" d="M15 4h2v6h-2zM19 4h5v1h-5zM19 5h1v16h-1zM23 5h1v2h-1zM20 6h3v1h-3zM22 7h1v2h-1zM20 8h2v1h-2zM23 8h1v3h-1zM20 10h3v1h-3zM22 11h1v2h-1zM20 12h2v1h-2zM23 12h1v3h-1zM20 14h3v1h-3zM22 15h1v2h-1zM20 16h2v1h-2zM23 16h1v3h-1zM20 18h3v1h-3zM22 19h1v2h-1zM20 20h2v1h-2z"/>
+  <path fill="#d6eefc" d="M17 4h1v17h-1z"/>
+  <path fill="#ef5a4a" d="M15 10h2v1h-2zM15 11h1v10h-1zM14 21h1v1h-1zM17 21h1v1h-1zM13 22h1v1h-1zM18 22h1v1h-1zM12 23h1v3h-1zM19 23h1v1h-1z"/>
+  <path fill="#8a1c1c" d="M16 11h1v10h-1zM19 24h1v3h-1zM12 26h1v1h-1zM13 27h1v1h-1zM18 27h1v1h-1zM14 28h4v1h-4z"/>
+  <path fill="#cf2b2b" d="M15 21h2v7h-2zM14 22h1v6h-1zM17 22h1v6h-1zM13 23h1v4h-1zM18 23h1v4h-1z"/>
+</svg>

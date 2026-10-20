@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>calculator</title>
+  <path fill="#1e2430" d="M2 1h12v2h-12zM2 3h2v2h-2zM8 3h1v2h-1zM10 3h1v2h-1zM12 3h2v2h-2zM4 4h4v1h-4zM9 4h1v1h-1zM11 4h1v1h-1zM2 5h1v10h-1zM13 5h1v10h-1zM4 6h2v1h-2zM7 6h2v1h-2zM10 6h2v1h-2zM4 8h2v1h-2zM7 8h2v1h-2zM10 8h2v1h-2zM4 10h2v1h-2zM7 10h2v1h-2zM10 10h2v1h-2zM4 12h2v1h-2zM7 12h2v1h-2zM10 12h2v1h-2zM3 14h10v1h-10z"/>
+  <path fill="#dde1e8" d="M4 3h4v1h-4zM9 3h1v1h-1zM11 3h1v1h-1zM3 5h1v8h-1z"/>
+  <path fill="#b8bec9" d="M4 5h8v1h-8zM6 6h1v7h-1zM9 6h1v7h-1zM4 7h2v1h-2zM7 7h2v1h-2zM10 7h2v1h-2zM4 9h2v1h-2zM7 9h2v1h-2zM10 9h2v1h-2zM4 11h2v1h-2zM7 11h2v1h-2zM10 11h2v1h-2z"/>
+  <path fill="#8a92a4" d="M12 5h1v9h-1zM3 13h9v1h-9z"/>
+</svg>

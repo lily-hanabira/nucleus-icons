@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>tent-circus</title>
+  <path fill="#1e2430" d="M7 1h1v3h-1zM10 1h1v1h-1zM8 3h1v1h-1zM6 4h1v1h-1zM9 4h1v1h-1zM5 5h1v1h-1zM10 5h1v1h-1zM2 8h1v1h-1zM13 8h1v1h-1zM1 9h1v1h-1zM14 9h1v1h-1zM2 10h1v5h-1zM13 10h1v5h-1zM7 11h2v4h-2zM3 14h4v1h-4zM9 14h4v1h-4z"/>
+  <path fill="#cf2b2b" d="M8 1h2v1h-2zM7 4h2v7h-2zM3 5h1v9h-1zM11 5h1v9h-1zM4 6h1v8h-1zM12 6h1v8h-1z"/>
+  <path fill="#ffffff" d="M6 5h1v8h-1zM9 5h1v8h-1zM5 6h1v7h-1zM10 6h1v7h-1z"/>
+  <path fill="#f4f6f8" d="M2 9h1v1h-1zM13 9h1v1h-1zM5 13h2v1h-2zM9 13h2v1h-2z"/>
+</svg>

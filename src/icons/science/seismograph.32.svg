@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>seismograph</title>
+  <path fill="#1e2430" d="M4 2h24v1h-24zM4 3h1v20h-1zM27 3h1v20h-1zM14 4h2v8h-2zM18 6h2v8h-2zM7 11h2v2h-2zM13 11h1v2h-1zM24 11h2v2h-2zM5 12h2v1h-2zM9 12h1v2h-1zM11 12h2v1h-2zM15 12h2v1h-2zM20 12h2v2h-2zM23 12h1v2h-1zM26 12h1v1h-1zM10 13h2v1h-2zM16 13h2v7h-2zM22 13h1v1h-1zM19 14h2v3h-2zM5 21h22v2h-22zM3 23h1v1h-1zM6 23h1v7h-1zM25 23h1v7h-1zM28 23h1v1h-1zM2 24h1v4h-1zM29 24h1v4h-1zM3 28h1v1h-1zM28 28h1v1h-1zM4 29h2v1h-2zM7 29h18v1h-18zM26 29h2v1h-2z"/>
+  <path fill="#ffffff" d="M5 3h22v1h-22zM5 4h9v3h-9zM16 4h10v2h-10zM16 6h2v1h-2zM20 6h6v1h-6zM5 8h9v3h-9zM16 8h2v4h-2zM20 8h6v3h-6zM5 11h2v1h-2zM9 11h4v1h-4zM20 11h4v1h-4zM5 13h4v4h-4zM12 13h4v4h-4zM24 13h2v4h-2zM9 14h3v3h-3zM18 14h1v3h-1zM21 14h3v3h-3zM5 18h11v2h-11zM18 18h8v2h-8z"/>
+  <path fill="#f4f6f8" d="M26 4h1v3h-1zM26 8h1v4h-1zM26 13h1v4h-1zM26 18h1v3h-1zM5 20h21v1h-21z"/>
+  <path fill="#dde1e8" d="M5 7h9v1h-9zM16 7h2v1h-2zM20 7h7v1h-7zM10 12h1v1h-1zM14 12h1v1h-1zM17 12h1v1h-1zM22 12h1v1h-1zM5 17h11v1h-11zM18 17h9v1h-9zM4 23h2v1h-2zM7 23h18v1h-18zM26 23h2v1h-2zM3 24h1v3h-1zM28 24h1v1h-1z"/>
+  <path fill="#b8bec9" d="M4 24h2v4h-2zM8 24h17v4h-17zM27 24h1v4h-1z"/>
+  <path fill="#8a92a4" d="M7 24h1v5h-1zM26 24h1v5h-1zM28 25h1v3h-1zM3 27h1v1h-1zM4 28h2v1h-2zM8 28h17v1h-17zM27 28h1v1h-1z"/>
+</svg>

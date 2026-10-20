@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>desktop-mac</title>
+  <path fill="#1e2430" d="M5 2h22v1h-22zM5 3h1v15h-1zM26 3h1v16h-1zM8 5h16v1h-16zM8 6h1v9h-1zM23 6h1v9h-1zM9 14h14v1h-14zM6 17h20v1h-20zM13 18h1v4h-1zM18 18h1v7h-1zM20 18h2v1h-2zM24 18h1v2h-1zM27 18h1v1h-1zM19 19h1v2h-1zM21 19h3v1h-3zM25 19h1v2h-1zM28 19h1v2h-1zM21 20h1v1h-1zM23 20h1v1h-1zM2 21h11v1h-11zM14 21h4v1h-4zM20 21h1v4h-1zM24 21h1v2h-1zM29 21h1v8h-1zM2 22h1v7h-1zM25 23h2v1h-2zM26 24h1v1h-1zM19 25h1v2h-1zM21 25h1v4h-1zM23 25h1v1h-1zM25 25h1v2h-1zM28 25h1v2h-1zM22 26h1v1h-1zM24 26h1v1h-1zM20 27h1v2h-1zM26 27h2v2h-2zM3 28h17v1h-17zM22 28h4v1h-4zM28 28h1v1h-1z"/>
+  <path fill="#dde1e8" d="M6 3h20v1h-20zM6 4h1v12h-1zM3 22h15v1h-15zM3 23h1v4h-1z"/>
+  <path fill="#b8bec9" d="M7 4h18v1h-18zM7 5h1v11h-1zM24 5h1v11h-1zM8 15h16v1h-16zM4 23h14v1h-14zM4 24h1v3h-1zM17 24h1v3h-1zM5 25h12v1h-12zM18 25h1v2h-1zM13 26h4v1h-4z"/>
+  <path fill="#8a92a4" d="M25 4h1v13h-1zM6 16h19v1h-19zM14 18h4v3h-4zM3 27h17v1h-17zM28 27h1v1h-1z"/>
+  <path fill="#5cb0f2" d="M9 6h14v1h-14zM9 7h1v6h-1z"/>
+  <path fill="#2f86e0" d="M10 7h12v1h-12zM10 8h1v5h-1zM14 8h8v5h-8zM12 9h2v4h-2zM11 11h1v2h-1z"/>
+  <path fill="#1f5fb8" d="M22 7h1v7h-1zM9 13h13v1h-13z"/>
+  <path fill="#9ad3fa" d="M11 8h3v1h-3zM11 9h1v2h-1z"/>
+  <path fill="#5ac85a" d="M22 18h2v1h-2z"/>
+  <path fill="#ffffff" d="M25 18h1v1h-1zM20 19h1v2h-1zM26 19h2v4h-2zM19 21h1v4h-1zM25 21h1v2h-1zM28 21h1v4h-1zM27 23h1v4h-1zM20 25h1v2h-1zM26 25h1v2h-1zM23 26h1v2h-1zM22 27h1v1h-1zM24 27h2v1h-2z"/>
+  <path fill="#cf2b2b" d="M22 20h1v6h-1zM24 20h1v1h-1zM21 21h1v4h-1zM23 21h1v4h-1zM24 23h1v3h-1zM25 24h1v1h-1z"/>
+  <path fill="#5c6478" d="M5 24h12v1h-12zM5 26h8v1h-8z"/>
+</svg>

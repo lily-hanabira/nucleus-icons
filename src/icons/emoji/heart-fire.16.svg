@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>heart-fire</title>
+  <path fill="#1e2430" d="M7 1h2v1h-2zM6 2h1v3h-1zM9 2h1v3h-1zM3 3h3v1h-3zM10 3h3v1h-3zM2 4h1v5h-1zM13 4h1v5h-1zM3 9h1v1h-1zM12 9h1v1h-1zM4 10h1v1h-1zM11 10h1v1h-1zM5 11h1v1h-1zM10 11h1v1h-1zM6 12h1v1h-1zM9 12h1v1h-1zM7 13h2v1h-2z"/>
+  <path fill="#fbe08a" d="M7 2h2v1h-2z"/>
+  <path fill="#e08a1c" d="M7 3h2v3h-2z"/>
+  <path fill="#ef5a4a" d="M3 4h3v1h-3zM10 4h3v1h-3zM3 5h1v3h-1zM6 5h1v1h-1zM9 5h1v1h-1zM7 6h2v1h-2z"/>
+  <path fill="#ffffff" d="M4 5h1v1h-1z"/>
+  <path fill="#cf2b2b" d="M5 5h1v5h-1zM10 5h2v4h-2zM4 6h1v3h-1zM6 6h1v5h-1zM9 6h1v5h-1zM7 7h2v5h-2zM10 9h1v1h-1z"/>
+  <path fill="#8a1c1c" d="M12 5h1v4h-1zM3 8h1v1h-1zM4 9h1v1h-1zM11 9h1v1h-1zM5 10h1v1h-1zM10 10h1v1h-1zM6 11h1v1h-1zM9 11h1v1h-1zM7 12h2v1h-2z"/>
+</svg>

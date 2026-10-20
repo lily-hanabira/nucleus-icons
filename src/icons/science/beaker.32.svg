@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>beaker</title>
+  <path fill="#1e2430" d="M5 3h1v2h-1zM6 4h3v1h-3zM24 4h1v25h-1zM8 5h1v24h-1zM20 7h4v1h-4zM20 11h4v1h-4zM20 15h4v1h-4zM9 29h15v1h-15z"/>
+  <path fill="#ffffff" d="M9 4h15v1h-15zM9 5h1v12h-1zM11 19h1v2h-1z"/>
+  <path fill="#f4f6f8" d="M10 5h13v2h-13zM10 7h10v10h-10zM20 8h3v3h-3zM20 12h3v3h-3zM20 16h3v1h-3z"/>
+  <path fill="#dde1e8" d="M23 5h1v2h-1zM23 8h1v3h-1zM23 12h1v3h-1zM23 16h1v1h-1z"/>
+  <path fill="#9ad3fa" d="M9 17h15v1h-15zM9 18h1v10h-1z"/>
+  <path fill="#5cb0f2" d="M10 18h13v1h-13zM10 19h1v9h-1zM12 19h11v9h-11zM11 21h1v7h-1z"/>
+  <path fill="#2f86e0" d="M23 18h1v11h-1zM9 28h14v1h-14z"/>
+</svg>

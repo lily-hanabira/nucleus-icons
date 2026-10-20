@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>penguin</title>
+  <path fill="#1e2430" d="M4 1h8v1h-8zM3 2h1v1h-1zM12 2h1v1h-1zM2 3h1v9h-1zM5 3h1v1h-1zM10 3h1v1h-1zM13 3h1v9h-1zM12 4h1v9h-1zM3 11h1v2h-1zM4 12h1v2h-1zM11 12h1v2h-1zM5 13h6v1h-6z"/>
+  <path fill="#ffffff" d="M4 2h2v1h-2zM10 2h2v1h-2zM4 3h1v1h-1zM11 3h1v1h-1zM5 5h6v7h-6zM4 6h1v5h-1zM11 6h1v1h-1z"/>
+  <path fill="#5c6478" d="M6 2h4v1h-4zM3 3h1v8h-1zM12 3h1v1h-1z"/>
+  <path fill="#3a4150" d="M6 3h4v1h-4zM4 4h3v1h-3zM9 4h3v1h-3zM4 5h1v1h-1zM11 5h1v1h-1z"/>
+  <path fill="#e08a1c" d="M7 4h2v1h-2zM4 14h2v1h-2zM10 14h2v1h-2z"/>
+  <path fill="#f4f6f8" d="M11 7h1v5h-1zM4 11h1v1h-1zM5 12h6v1h-6z"/>
+</svg>

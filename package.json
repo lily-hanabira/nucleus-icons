@@ -1,0 +1,23 @@
+{
+  "name": "nucleus-icons",
+  "version": "0.1.0",
+  "description": "Icon suite for Bastion Nucleus. SVG sources compiled to 256 colour PNG atlases.",
+  "type": "module",
+  "private": true,
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "check": "node scripts/build.js --check",
+    "draw": "node tools/draw.mjs",
+    "preview": "node tools/preview.mjs",
+    "contents": "node scripts/contents.js",
+    "storybook": "node scripts/build.js && storybook dev -p 6006",
+    "build-storybook": "node scripts/build.js && storybook build"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "@storybook/html-vite": "^10.6.2",
+    "storybook": "^10.6.2",
+    "vite": "^8.3.4"
+  }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>world-map</title>
+  <path fill="#1e2430" d="M2 4h9v1h-9zM21 4h9v1h-9zM2 5h1v23h-1zM10 5h1v24h-1zM20 5h2v1h-2zM29 5h1v23h-1zM11 6h10v1h-10zM20 7h1v23h-1zM3 27h7v1h-7zM21 27h8v1h-8zM11 28h1v2h-1zM12 29h8v1h-8z"/>
+  <path fill="#faecc8" d="M3 5h7v1h-7zM22 5h7v1h-7zM3 6h1v20h-1zM21 6h1v1h-1zM11 7h9v1h-9z"/>
+  <path fill="#5cb0f2" d="M4 6h5v2h-5zM23 6h5v3h-5zM8 8h1v18h-1zM13 8h6v2h-6zM23 9h1v2h-1zM27 9h1v9h-1zM16 10h3v2h-3zM4 11h1v15h-1zM7 11h1v15h-1zM25 11h2v7h-2zM13 12h1v8h-1zM18 12h1v16h-1zM5 13h2v13h-2zM23 14h2v12h-2zM14 15h1v5h-1zM17 15h1v13h-1zM15 17h2v11h-2zM25 21h1v5h-1zM27 21h1v5h-1zM13 22h2v6h-2zM26 23h1v3h-1z"/>
+  <path fill="#f0d6a0" d="M9 6h1v20h-1zM22 6h1v20h-1zM21 7h1v19h-1zM11 8h2v19h-2zM19 8h1v20h-1zM12 27h1v1h-1z"/>
+  <path fill="#d9ab5a" d="M28 6h1v21h-1zM3 26h7v1h-7zM21 26h7v1h-7zM11 27h1v1h-1zM12 28h8v1h-8z"/>
+  <path fill="#5ac85a" d="M4 8h4v3h-4zM24 9h3v2h-3zM13 10h3v2h-3zM5 11h2v2h-2zM23 11h2v3h-2zM14 12h4v3h-4zM15 15h2v2h-2zM25 18h3v3h-3zM13 20h2v2h-2zM26 21h1v2h-1z"/>
+</svg>

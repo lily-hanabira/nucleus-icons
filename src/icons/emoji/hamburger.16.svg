@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>hamburger</title>
+  <path fill="#1e2430" d="M5 1h6v1h-6zM3 2h2v1h-2zM11 2h2v1h-2zM2 3h1v1h-1zM13 3h1v1h-1zM1 4h1v3h-1zM14 4h1v2h-1zM14 7h1v7h-1zM1 8h1v6h-1zM2 14h12v1h-12z"/>
+  <path fill="#f0d6a0" d="M5 2h6v1h-6zM3 3h2v1h-2zM11 3h2v1h-2zM2 4h1v1h-1zM13 4h1v1h-1zM2 11h2v1h-2zM5 11h4v1h-4zM10 11h4v1h-4zM2 12h1v1h-1z"/>
+  <path fill="#ffffff" d="M5 3h1v1h-1zM8 3h1v1h-1zM4 4h1v1h-1zM7 4h1v1h-1zM10 4h1v1h-1z"/>
+  <path fill="#d9ab5a" d="M6 3h2v1h-2zM9 3h2v1h-2zM3 4h1v1h-1zM5 4h2v1h-2zM8 4h2v1h-2zM11 4h2v1h-2zM3 12h10v1h-10z"/>
+  <path fill="#a87836" d="M2 5h1v1h-1zM4 5h2v1h-2zM7 5h3v1h-3zM11 5h3v1h-3zM2 8h12v1h-12zM13 12h1v2h-1zM2 13h11v1h-11z"/>
+  <path fill="#5ac85a" d="M3 5h1v2h-1zM6 5h1v2h-1zM10 5h1v2h-1zM2 6h1v1h-1zM4 6h2v1h-2zM7 6h3v1h-3zM11 6h4v1h-4zM1 7h1v1h-1z"/>
+  <path fill="#cf2b2b" d="M2 7h12v1h-12z"/>
+  <path fill="#6b4a1e" d="M2 9h12v1h-12z"/>
+  <path fill="#f5b83c" d="M2 10h12v1h-12zM4 11h1v1h-1zM9 11h1v1h-1z"/>
+</svg>

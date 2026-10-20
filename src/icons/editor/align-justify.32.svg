@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>align-justify</title>
+  <path fill="#f4f6f8" d="M3 4h26v1h-26zM3 5h1v19h-1zM28 5h1v19h-1zM4 7h24v2h-24zM4 11h24v2h-24zM4 15h24v2h-24zM4 19h24v2h-24zM4 23h24v1h-24z"/>
+  <path fill="#1e2430" d="M4 5h24v2h-24zM4 9h24v2h-24zM4 13h24v2h-24zM4 17h24v2h-24zM4 21h24v2h-24z"/>
+</svg>

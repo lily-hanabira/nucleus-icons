@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>symbol-hole</title>
+  <path fill="#1e2430" d="M4 5h8v1h-8zM2 6h2v1h-2zM12 6h2v1h-2zM1 7h1v3h-1zM14 7h1v3h-1zM4 9h2v1h-2zM10 9h2v1h-2zM2 10h2v1h-2zM6 10h4v2h-4zM12 10h2v1h-2zM4 11h2v1h-2zM10 11h2v1h-2z"/>
+  <path fill="#8a92a4" d="M4 6h8v1h-8zM2 7h2v1h-2zM12 7h2v1h-2zM2 8h1v1h-1z"/>
+  <path fill="#5c6478" d="M4 7h8v1h-8zM3 8h3v1h-3zM10 8h3v1h-3z"/>
+  <path fill="#3a4150" d="M6 8h4v2h-4zM13 8h1v2h-1zM2 9h2v1h-2zM12 9h1v1h-1zM4 10h2v1h-2zM10 10h2v1h-2z"/>
+</svg>

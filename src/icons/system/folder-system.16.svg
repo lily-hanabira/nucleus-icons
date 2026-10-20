@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>folder-system</title>
+  <path fill="#1e2430" d="M1 2h7v1h-7zM1 3h1v1h-1zM7 3h1v1h-1zM8 4h7v1h-7zM1 5h1v9h-1zM14 5h1v9h-1zM2 7h12v1h-12zM8 8h5v1h-5zM8 9h1v5h-1zM12 9h1v5h-1zM9 12h3v2h-3zM2 13h6v1h-6zM13 13h1v1h-1z"/>
+  <path fill="#d9ab5a" d="M2 3h5v2h-5zM13 6h1v1h-1zM3 9h5v3h-5z"/>
+  <path fill="#faecc8" d="M2 5h12v1h-12zM2 6h1v1h-1z"/>
+  <path fill="#f0d6a0" d="M3 6h10v1h-10zM2 8h6v1h-6zM13 8h1v1h-1zM2 9h1v3h-1z"/>
+  <path fill="#1f5fb8" d="M9 9h3v1h-3z"/>
+  <path fill="#a87836" d="M13 9h1v4h-1zM2 12h6v1h-6z"/>
+  <path fill="#d6eefc" d="M9 10h3v2h-3z"/>
+</svg>

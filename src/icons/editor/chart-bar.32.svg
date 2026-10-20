@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>chart-bar</title>
+  <path fill="#1e2430" d="M2 2h28v1h-28zM2 3h1v27h-1zM29 3h1v27h-1zM5 5h2v20h-2zM15 7h6v1h-6zM15 8h1v19h-1zM20 8h1v19h-1zM8 12h6v1h-6zM8 13h1v14h-1zM13 13h1v14h-1zM22 16h6v1h-6zM22 17h1v10h-1zM27 17h1v10h-1zM9 24h4v3h-4zM16 24h4v3h-4zM23 24h4v3h-4zM7 25h1v2h-1zM14 25h1v2h-1zM21 25h1v2h-1zM3 29h26v1h-26z"/>
+  <path fill="#ffffff" d="M3 3h26v1h-26zM3 4h25v1h-25zM3 5h2v23h-2zM7 5h21v2h-21zM7 7h8v5h-8zM21 7h7v9h-7zM7 12h1v13h-1zM14 12h1v13h-1zM21 16h1v9h-1zM5 25h2v3h-2zM7 27h21v1h-21z"/>
+  <path fill="#f4f6f8" d="M28 4h1v25h-1zM3 28h25v1h-25z"/>
+  <path fill="#5ac85a" d="M16 8h4v1h-4zM16 9h1v14h-1z"/>
+  <path fill="#2f9a3a" d="M17 9h2v14h-2z"/>
+  <path fill="#1f6b2a" d="M19 9h1v15h-1zM16 23h3v1h-3z"/>
+  <path fill="#5cb0f2" d="M9 13h4v1h-4zM9 14h1v9h-1z"/>
+  <path fill="#2f86e0" d="M10 14h2v9h-2z"/>
+  <path fill="#1f5fb8" d="M12 14h1v10h-1zM9 23h3v1h-3z"/>
+  <path fill="#fbe08a" d="M23 17h4v1h-4zM23 18h1v5h-1z"/>
+  <path fill="#f5b83c" d="M24 18h2v5h-2z"/>
+  <path fill="#e08a1c" d="M26 18h1v6h-1zM23 23h3v1h-3z"/>
+</svg>

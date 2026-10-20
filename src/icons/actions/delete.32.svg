@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>delete</title>
+  <path fill="#1e2430" d="M12 2h8v1h-8zM12 3h1v4h-1zM19 3h1v4h-1zM4 6h8v1h-8zM13 6h6v1h-6zM20 6h8v1h-8zM4 7h1v4h-1zM27 7h1v4h-1zM5 10h22v1h-22zM6 11h1v19h-1zM25 11h1v19h-1zM10 13h1v13h-1zM15 13h1v13h-1zM20 13h1v13h-1zM7 29h18v1h-18z"/>
+  <path fill="#dde1e8" d="M5 7h22v1h-22zM5 8h1v1h-1zM7 11h18v1h-18zM7 12h1v16h-1z"/>
+  <path fill="#b8bec9" d="M6 8h20v1h-20zM8 12h16v1h-16zM8 13h2v15h-2zM11 13h4v15h-4zM16 13h4v15h-4zM21 13h3v15h-3zM10 26h1v2h-1zM15 26h1v2h-1zM20 26h1v2h-1z"/>
+  <path fill="#8a92a4" d="M26 8h1v2h-1zM5 9h21v1h-21zM24 12h1v17h-1zM7 28h17v1h-17z"/>
+</svg>

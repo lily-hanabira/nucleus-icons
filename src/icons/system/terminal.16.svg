@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>terminal</title>
+  <path fill="#1e2430" d="M1 1h14v1h-14zM1 2h1v13h-1zM14 2h1v13h-1zM13 5h1v10h-1zM2 13h11v2h-11z"/>
+  <path fill="#2f86e0" d="M2 2h12v1h-12z"/>
+  <path fill="#163e7a" d="M2 3h12v1h-12z"/>
+  <path fill="#5c6478" d="M2 4h12v1h-12zM2 5h1v8h-1z"/>
+  <path fill="#3a4150" d="M3 5h10v1h-10zM3 6h1v7h-1zM5 6h8v1h-8zM6 7h7v2h-7zM5 8h1v5h-1zM4 9h1v4h-1zM6 9h1v4h-1zM10 9h3v4h-3zM7 10h3v3h-3z"/>
+  <path fill="#5ac85a" d="M4 6h1v3h-1zM5 7h1v1h-1z"/>
+  <path fill="#dde1e8" d="M7 9h3v1h-3z"/>
+</svg>

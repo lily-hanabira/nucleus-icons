@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>hand-writing</title>
+  <path fill="#1e2430" d="M24 3h5v1h-5zM23 4h2v1h-2zM27 4h1v1h-1zM22 5h2v1h-2zM26 5h1v1h-1zM21 6h2v1h-2zM25 6h1v1h-1zM20 7h2v1h-2zM24 7h1v1h-1zM19 8h2v2h-2zM23 8h1v2h-1zM14 9h5v1h-5zM21 9h2v1h-2zM24 9h1v1h-1zM13 10h1v12h-1zM25 10h1v15h-1zM26 12h4v1h-4zM29 13h1v10h-1zM12 15h1v2h-1zM11 16h1v2h-1zM10 17h1v2h-1zM9 18h1v2h-1zM8 19h1v2h-1zM12 19h1v1h-1zM7 20h1v2h-1zM11 20h1v1h-1zM6 21h1v3h-1zM10 21h1v1h-1zM5 22h1v3h-1zM8 22h2v1h-2zM26 22h3v1h-3zM7 23h1v1h-1zM13 23h1v2h-1zM14 25h11v1h-11z"/>
+  <path fill="#f0d6a0" d="M25 4h1v1h-1zM24 5h1v1h-1zM23 6h1v1h-1zM22 7h1v1h-1zM21 8h1v1h-1zM12 17h1v1h-1zM11 18h1v1h-1zM10 19h1v1h-1zM9 20h1v1h-1z"/>
+  <path fill="#a87836" d="M26 4h1v1h-1zM25 5h1v1h-1zM24 6h1v1h-1zM23 7h1v1h-1zM22 8h1v1h-1zM12 18h1v1h-1zM11 19h1v1h-1zM10 20h1v1h-1zM8 21h2v1h-2zM7 22h1v1h-1z"/>
+  <path fill="#fbe08a" d="M14 10h11v1h-11zM14 11h1v2h-1zM14 15h1v2h-1zM14 19h1v2h-1zM14 23h1v1h-1z"/>
+  <path fill="#f5b83c" d="M15 11h9v3h-9zM22 14h2v10h-2zM15 15h7v3h-7zM15 19h7v3h-7zM15 23h7v1h-7z"/>
+  <path fill="#e08a1c" d="M24 11h1v14h-1zM14 13h1v2h-1zM15 14h7v1h-7zM14 17h1v2h-1zM15 18h7v1h-7zM14 21h1v2h-1zM15 22h7v1h-7zM14 24h10v1h-10z"/>
+  <path fill="#5cb0f2" d="M26 13h3v1h-3zM26 14h1v7h-1z"/>
+  <path fill="#2f86e0" d="M27 14h1v7h-1z"/>
+  <path fill="#1f5fb8" d="M28 14h1v8h-1zM26 21h2v1h-2z"/>
+</svg>

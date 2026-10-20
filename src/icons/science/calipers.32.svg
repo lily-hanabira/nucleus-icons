@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>calipers</title>
+  <path fill="#1e2430" d="M9 4h9v1h-9zM2 5h4v1h-4zM9 5h1v5h-1zM17 5h1v5h-1zM2 6h1v22h-1zM5 6h1v4h-1zM6 10h3v1h-3zM10 10h7v1h-7zM18 10h12v1h-12zM4 11h1v2h-1zM6 11h1v1h-1zM8 11h3v1h-3zM12 11h1v1h-1zM14 11h1v2h-1zM16 11h2v1h-2zM29 11h1v5h-1zM9 12h1v4h-1zM17 12h1v4h-1zM24 12h1v1h-1zM7 15h2v1h-2zM10 15h1v1h-1zM16 15h1v1h-1zM18 15h11v1h-11zM6 16h1v12h-1zM11 16h1v12h-1zM15 16h1v12h-1zM3 28h3v1h-3zM12 28h3v1h-3z"/>
+  <path fill="#dde1e8" d="M10 5h7v1h-7zM3 6h2v1h-2zM10 6h1v4h-1zM3 7h1v20h-1zM5 10h1v1h-1zM9 10h1v1h-1zM17 10h1v1h-1zM7 11h1v1h-1zM18 11h11v1h-11zM12 16h1v11h-1z"/>
+  <path fill="#b8bec9" d="M11 6h1v4h-1zM15 6h1v4h-1zM12 8h3v2h-3zM4 10h1v1h-1zM5 11h1v5h-1zM11 11h1v4h-1zM13 11h1v16h-1zM15 11h1v4h-1zM6 12h3v2h-3zM10 12h1v2h-1zM12 12h1v4h-1zM16 12h1v2h-1zM18 12h6v2h-6zM25 12h3v2h-3zM4 13h1v14h-1zM14 13h1v3h-1zM24 13h1v1h-1zM6 14h1v1h-1z"/>
+  <path fill="#5c6478" d="M12 6h3v2h-3z"/>
+  <path fill="#8a92a4" d="M16 6h1v4h-1zM4 7h1v3h-1zM28 12h1v3h-1zM7 14h2v1h-2zM10 14h1v1h-1zM16 14h1v1h-1zM18 14h10v1h-10zM6 15h1v1h-1zM11 15h1v1h-1zM15 15h1v1h-1zM5 16h1v12h-1zM14 16h1v12h-1zM3 27h2v1h-2zM12 27h2v1h-2z"/>
+</svg>

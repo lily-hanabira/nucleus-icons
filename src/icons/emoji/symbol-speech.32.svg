@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>symbol-speech</title>
+  <path fill="#1e2430" d="M4 4h24v1h-24zM3 5h1v1h-1zM28 5h1v1h-1zM2 6h1v16h-1zM29 6h1v16h-1zM7 12h4v4h-4zM14 12h4v4h-4zM21 12h4v4h-4zM3 22h1v1h-1zM28 22h1v1h-1zM4 23h2v1h-2zM14 23h14v1h-14zM6 24h1v1h-1zM12 24h2v1h-2zM5 25h1v1h-1zM9 25h3v1h-3zM4 26h1v1h-1zM7 26h2v1h-2zM3 27h1v2h-1zM5 27h2v1h-2zM4 28h1v1h-1z"/>
+  <path fill="#ffffff" d="M4 5h24v7h-24zM3 6h1v15h-1zM28 6h1v1h-1zM4 12h3v10h-3zM11 12h3v11h-3zM18 12h3v10h-3zM25 12h3v10h-3zM7 16h4v8h-4zM14 16h4v6h-4zM21 16h4v6h-4zM6 22h1v1h-1zM11 23h1v1h-1zM7 24h2v1h-2zM6 25h1v1h-1z"/>
+  <path fill="#f4f6f8" d="M28 7h1v15h-1zM3 21h1v1h-1zM4 22h2v1h-2zM14 22h14v1h-14zM6 23h1v1h-1zM12 23h2v1h-2zM9 24h3v1h-3zM7 25h2v1h-2zM5 26h2v1h-2zM4 27h1v1h-1z"/>
+</svg>

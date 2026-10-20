@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>task</title>
+  <path fill="#1e2430" d="M5 0h6v1h-6zM2 1h4v1h-4zM10 1h4v1h-4zM2 2h1v13h-1zM5 2h6v1h-6zM13 2h1v13h-1zM3 14h10v1h-10z"/>
+  <path fill="#8a92a4" d="M6 1h4v1h-4z"/>
+  <path fill="#d9ab5a" d="M3 2h2v1h-2zM11 2h2v1h-2zM3 3h1v10h-1z"/>
+  <path fill="#a87836" d="M4 3h8v1h-8z"/>
+  <path fill="#6b4a1e" d="M12 3h1v11h-1zM3 13h9v1h-9z"/>
+  <path fill="#ffffff" d="M4 4h8v1h-8zM4 5h7v2h-7zM4 7h6v1h-6zM4 8h1v4h-1zM6 8h3v1h-3zM7 9h1v1h-1zM10 9h1v3h-1zM5 10h1v2h-1zM9 10h1v2h-1zM6 11h1v1h-1zM8 11h1v1h-1z"/>
+  <path fill="#f4f6f8" d="M11 5h1v8h-1zM4 12h7v1h-7z"/>
+  <path fill="#2f9a3a" d="M10 7h1v2h-1zM5 8h1v2h-1zM9 8h1v2h-1zM6 9h1v2h-1zM8 9h1v2h-1zM7 10h1v2h-1z"/>
+</svg>

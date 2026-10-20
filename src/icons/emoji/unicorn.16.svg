@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>unicorn</title>
+  <path fill="#1e2430" d="M7 1h1v1h-1zM6 2h1v3h-1zM8 2h1v3h-1zM4 3h1v2h-1zM11 3h1v2h-1zM5 4h1v1h-1zM7 4h1v1h-1zM9 4h2v1h-2zM3 5h1v9h-1zM12 5h1v9h-1zM5 9h1v2h-1zM10 9h1v2h-1zM5 13h1v2h-1zM10 13h1v2h-1zM4 14h1v1h-1zM6 14h4v1h-4zM11 14h1v1h-1z"/>
+  <path fill="#f5b83c" d="M7 2h1v2h-1z"/>
+  <path fill="#a98ae6" d="M4 5h4v1h-4zM4 6h3v1h-3zM4 7h2v1h-2zM4 8h1v4h-1z"/>
+  <path fill="#ffffff" d="M8 5h4v1h-4zM7 6h4v3h-4zM6 7h1v6h-1zM5 8h1v1h-1zM7 9h3v4h-3zM5 11h1v2h-1zM10 11h1v2h-1zM4 12h1v1h-1z"/>
+  <path fill="#f4f6f8" d="M11 6h1v8h-1zM4 13h1v1h-1zM6 13h4v1h-4z"/>
+</svg>

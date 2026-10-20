@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>moon</title>
+  <path fill="#1e2430" d="M5 1h4v1h-4zM3 2h2v1h-2zM6 2h1v2h-1zM2 3h1v2h-1zM5 4h1v4h-1zM1 5h1v5h-1zM6 8h1v2h-1zM2 10h1v2h-1zM7 10h2v1h-2zM9 11h4v1h-4zM3 12h2v1h-2zM10 12h2v1h-2zM5 13h5v1h-5z"/>
+  <path fill="#fbe08a" d="M5 2h1v1h-1zM3 3h2v1h-2zM3 4h1v1h-1zM2 5h1v4h-1zM3 6h1v5h-1zM4 8h2v1h-2zM4 10h3v1h-3zM5 11h4v1h-4z"/>
+  <path fill="#f5b83c" d="M5 3h1v1h-1zM4 4h1v4h-1zM3 5h1v1h-1zM2 9h1v1h-1zM4 9h2v1h-2zM3 11h2v1h-2zM5 12h5v1h-5z"/>
+</svg>

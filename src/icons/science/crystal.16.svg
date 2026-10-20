@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>crystal</title>
+  <path fill="#1e2430" d="M8 1h2v1h-2zM7 2h1v1h-1zM10 2h1v1h-1zM11 3h1v1h-1zM12 4h1v1h-1zM4 5h1v2h-1zM13 5h1v2h-1zM2 6h2v1h-2zM5 6h8v1h-8zM14 6h1v4h-1zM3 7h1v3h-1zM13 10h1v1h-1zM5 11h1v1h-1zM12 11h1v1h-1zM11 12h1v1h-1zM7 13h1v1h-1zM10 13h1v1h-1zM8 14h2v1h-2z"/>
+  <path fill="#d9c9f5" d="M8 2h2v1h-2zM5 3h3v1h-3zM10 3h1v1h-1zM5 4h2v2h-2zM11 4h1v1h-1zM12 5h1v1h-1zM4 7h2v4h-2zM6 11h1v2h-1z"/>
+  <path fill="#a98ae6" d="M8 3h2v3h-2zM7 4h1v2h-1zM10 4h1v2h-1zM11 5h1v1h-1zM6 7h7v3h-7zM6 10h6v1h-6zM7 11h4v1h-4zM8 12h2v1h-2z"/>
+  <path fill="#7a4cc9" d="M13 7h1v3h-1zM12 10h1v1h-1zM11 11h1v1h-1zM7 12h1v1h-1zM10 12h1v1h-1zM8 13h2v1h-2z"/>
+</svg>

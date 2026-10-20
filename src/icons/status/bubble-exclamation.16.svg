@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>bubble-exclamation</title>
+  <path fill="#1e2430" d="M2 1h12v1h-12zM1 2h1v9h-1zM14 2h1v9h-1zM7 3h2v5h-2zM7 9h2v1h-2zM2 11h1v4h-1zM6 11h8v1h-8zM5 12h1v1h-1zM4 13h1v1h-1zM3 14h1v1h-1z"/>
+  <path fill="#ffffff" d="M2 2h12v1h-12zM2 3h5v7h-5zM9 3h4v7h-4zM7 8h2v1h-2zM3 10h3v1h-3zM3 11h2v1h-2zM3 12h1v1h-1z"/>
+  <path fill="#f4f6f8" d="M13 3h1v8h-1zM2 10h1v1h-1zM6 10h7v1h-7zM5 11h1v1h-1zM4 12h1v1h-1zM3 13h1v1h-1z"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>molecule</title>
+  <path fill="#1e2430" d="M6 3h5v1h-5zM21 3h5v1h-5zM5 4h1v1h-1zM11 4h1v1h-1zM20 4h1v1h-1zM26 4h1v1h-1zM4 5h1v1h-1zM12 5h1v1h-1zM19 5h1v1h-1zM27 5h1v1h-1zM3 6h1v5h-1zM13 6h1v5h-1zM18 6h1v5h-1zM28 6h1v5h-1zM4 11h1v1h-1zM12 11h1v1h-1zM19 11h1v1h-1zM27 11h1v1h-1zM5 12h1v1h-1zM11 12h1v3h-1zM20 12h1v5h-1zM26 12h1v1h-1zM6 13h5v1h-5zM12 13h1v3h-1zM21 13h5v1h-5zM21 14h1v1h-1zM13 15h1v4h-1zM19 15h1v4h-1zM14 16h1v2h-1zM15 17h4v1h-4zM12 19h1v1h-1zM20 19h1v1h-1zM11 20h1v5h-1zM21 20h1v5h-1zM12 25h1v1h-1zM20 25h1v1h-1zM13 26h1v1h-1zM19 26h1v1h-1zM14 27h5v1h-5z"/>
+  <path fill="#5cb0f2" d="M6 4h5v1h-5zM5 5h1v1h-1zM11 5h1v1h-1zM4 6h1v4h-1zM12 6h1v1h-1z"/>
+  <path fill="#ef5a4a" d="M21 4h5v1h-5zM20 5h1v1h-1zM26 5h1v1h-1zM19 6h1v4h-1zM27 6h1v1h-1z"/>
+  <path fill="#ffffff" d="M6 5h2v1h-2zM21 5h2v1h-2zM5 6h1v1h-1zM20 6h1v1h-1zM14 19h2v1h-2zM13 20h1v1h-1z"/>
+  <path fill="#2f86e0" d="M8 5h3v7h-3zM6 6h2v6h-2zM11 6h1v5h-1zM5 7h1v4h-1z"/>
+  <path fill="#cf2b2b" d="M23 5h3v7h-3zM21 6h2v6h-2zM26 6h1v5h-1zM20 7h1v4h-1z"/>
+  <path fill="#1f5fb8" d="M12 7h1v4h-1zM4 10h1v1h-1zM5 11h1v1h-1zM11 11h1v1h-1zM6 12h5v1h-5z"/>
+  <path fill="#8a1c1c" d="M27 7h1v4h-1zM19 10h1v1h-1zM20 11h1v1h-1zM26 11h1v1h-1zM21 12h5v1h-5z"/>
+  <path fill="#f4f6f8" d="M12 12h2v1h-2zM19 12h1v3h-1zM13 13h1v2h-1zM10 14h1v2h-1zM14 14h1v2h-1zM18 14h1v3h-1zM22 14h1v2h-1zM11 15h1v2h-1zM15 15h1v2h-1zM21 15h1v3h-1zM12 16h1v3h-1zM17 16h1v1h-1zM20 17h1v2h-1zM14 18h5v1h-5zM13 19h1v1h-1zM19 19h1v1h-1zM12 20h1v4h-1zM20 20h1v1h-1z"/>
+  <path fill="#dde1e8" d="M16 19h3v7h-3zM14 20h2v6h-2zM19 20h1v5h-1zM13 21h1v4h-1z"/>
+  <path fill="#b8bec9" d="M20 21h1v4h-1zM12 24h1v1h-1zM13 25h1v1h-1zM19 25h1v1h-1zM14 26h5v1h-5z"/>
+</svg>

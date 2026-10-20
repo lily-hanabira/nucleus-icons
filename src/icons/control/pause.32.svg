@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>pause</title>
+  <path fill="#1e2430" d="M6 4h8v1h-8zM18 4h8v1h-8zM6 5h1v23h-1zM13 5h1v23h-1zM18 5h1v23h-1zM25 5h1v23h-1zM7 27h6v1h-6zM19 27h6v1h-6z"/>
+  <path fill="#5ac85a" d="M7 5h6v1h-6zM19 5h6v1h-6zM7 6h1v20h-1zM19 6h1v20h-1z"/>
+  <path fill="#2f9a3a" d="M8 6h4v20h-4zM20 6h4v20h-4z"/>
+  <path fill="#1f6b2a" d="M12 6h1v21h-1zM24 6h1v21h-1zM7 26h5v1h-5zM19 26h5v1h-5z"/>
+</svg>

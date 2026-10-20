@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>balance</title>
+  <path fill="#1e2430" d="M13 2h6v1h-6zM15 3h3v1h-3zM15 4h1v1h-1zM17 4h1v1h-1zM4 5h11v2h-11zM18 5h10v2h-10zM15 7h1v18h-1zM17 7h1v18h-1zM4 10h1v5h-1zM6 10h1v5h-1zM25 10h1v5h-1zM27 10h1v5h-1zM3 15h1v3h-1zM7 15h1v3h-1zM24 15h1v3h-1zM28 15h1v3h-1zM2 17h1v2h-1zM4 17h3v1h-3zM8 17h3v1h-3zM21 17h3v1h-3zM25 17h3v1h-3zM29 17h1v2h-1zM10 18h1v1h-1zM21 18h1v1h-1zM3 19h1v1h-1zM9 19h1v1h-1zM22 19h1v1h-1zM28 19h1v1h-1zM4 20h5v1h-5zM23 20h5v1h-5zM12 25h3v5h-3zM18 25h2v5h-2zM10 26h2v4h-2zM15 26h3v4h-3zM20 26h2v4h-2zM8 27h2v3h-2zM22 27h2v3h-2z"/>
+  <path fill="#8a92a4" d="M16 4h1v21h-1zM3 18h1v1h-1zM9 18h1v1h-1zM22 18h1v1h-1zM28 18h1v1h-1zM4 19h5v1h-5zM23 19h5v1h-5z"/>
+  <path fill="#f4f6f8" d="M3 9h5v1h-5zM24 9h5v1h-5zM3 10h1v5h-1zM5 10h1v6h-1zM7 10h1v5h-1zM24 10h1v5h-1zM26 10h1v6h-1zM28 10h1v5h-1zM2 14h1v3h-1zM8 14h1v3h-1zM23 14h1v3h-1zM29 14h1v3h-1zM4 15h1v2h-1zM6 15h1v2h-1zM25 15h1v2h-1zM27 15h1v2h-1z"/>
+  <path fill="#dde1e8" d="M4 18h5v1h-5zM23 18h5v1h-5z"/>
+</svg>

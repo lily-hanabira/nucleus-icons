@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>beaker-export</title>
+  <path fill="#1e2430" d="M5 3h1v2h-1zM6 4h3v1h-3zM24 4h1v15h-1zM8 5h1v24h-1zM20 7h4v1h-4zM20 11h4v1h-4zM20 15h4v1h-4zM22 18h2v1h-2zM25 18h1v1h-1zM20 19h2v1h-2zM26 19h2v1h-2zM19 20h1v2h-1zM24 20h1v3h-1zM28 20h1v2h-1zM25 21h1v1h-1zM18 22h1v4h-1zM20 22h4v1h-4zM26 22h1v1h-1zM29 22h1v4h-1zM20 23h1v3h-1zM27 23h1v2h-1zM21 25h4v1h-4zM26 25h1v1h-1zM19 26h1v2h-1zM24 26h2v1h-2zM28 26h1v2h-1zM24 27h1v1h-1zM20 28h2v2h-2zM26 28h2v1h-2zM9 29h11v1h-11zM22 29h4v1h-4z"/>
+  <path fill="#ffffff" d="M9 4h15v1h-15zM9 5h1v12h-1zM11 19h1v2h-1zM22 19h4v1h-4zM20 20h4v2h-4zM25 20h3v1h-3zM26 21h1v1h-1zM19 22h1v3h-1zM27 22h2v1h-2zM27 25h1v1h-1zM20 26h4v1h-4zM26 26h1v1h-1zM22 27h2v1h-2zM25 27h1v1h-1z"/>
+  <path fill="#f4f6f8" d="M10 5h13v2h-13zM10 7h10v10h-10zM20 8h3v3h-3zM20 12h3v3h-3zM20 16h3v1h-3zM27 21h1v1h-1zM28 23h1v3h-1zM19 25h1v1h-1zM27 26h1v2h-1zM20 27h2v1h-2zM26 27h1v1h-1zM22 28h4v1h-4z"/>
+  <path fill="#dde1e8" d="M23 5h1v2h-1zM23 8h1v3h-1zM23 12h1v3h-1zM23 16h1v1h-1z"/>
+  <path fill="#9ad3fa" d="M9 17h15v1h-15zM9 18h1v10h-1z"/>
+  <path fill="#5cb0f2" d="M10 18h12v1h-12zM10 19h1v9h-1zM12 19h8v1h-8zM12 20h7v2h-7zM11 21h1v7h-1zM12 22h6v6h-6zM18 26h1v2h-1z"/>
+  <path fill="#5ac85a" d="M25 22h1v1h-1zM21 23h3v1h-3zM26 23h1v1h-1z"/>
+  <path fill="#2f9a3a" d="M24 23h2v2h-2z"/>
+  <path fill="#1f6b2a" d="M21 24h3v1h-3zM26 24h1v1h-1zM25 25h1v1h-1z"/>
+  <path fill="#2f86e0" d="M9 28h11v1h-11z"/>
+</svg>

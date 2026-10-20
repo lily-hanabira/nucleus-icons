@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>notepad</title>
+  <path fill="#1e2430" d="M1 3h30v1h-30zM1 4h1v25h-1zM30 4h1v25h-1zM14 22h1v4h-1zM2 28h28v1h-28z"/>
+  <path fill="#5cb0f2" d="M2 4h28v1h-28zM2 5h1v2h-1z"/>
+  <path fill="#2f86e0" d="M3 5h20v2h-20zM25 5h1v2h-1zM28 5h1v2h-1z"/>
+  <path fill="#f4f6f8" d="M23 5h2v2h-2zM26 5h2v2h-2zM29 9h1v19h-1zM2 27h27v1h-27z"/>
+  <path fill="#1f5fb8" d="M29 5h1v3h-1zM2 7h27v1h-27z"/>
+  <path fill="#ffffff" d="M2 8h28v1h-28zM2 9h27v2h-27zM2 11h3v16h-3zM21 11h8v8h-8zM5 13h16v2h-16zM17 15h4v4h-4zM5 17h12v2h-12zM23 19h6v8h-6zM5 21h18v1h-18zM5 22h9v1h-9zM15 22h8v5h-8zM13 23h1v4h-1zM5 25h8v2h-8zM14 26h1v1h-1z"/>
+  <path fill="#8a92a4" d="M5 11h16v2h-16zM5 15h12v2h-12zM5 19h18v2h-18zM5 23h8v2h-8z"/>
+</svg>

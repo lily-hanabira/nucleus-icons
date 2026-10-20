@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>red</title>
+  <path fill="#1e2430" d="M6 2h4v1h-4zM4 3h2v1h-2zM10 3h2v1h-2zM3 4h1v2h-1zM12 4h1v2h-1zM2 6h1v4h-1zM13 6h1v4h-1zM3 10h1v2h-1zM12 10h1v2h-1zM4 12h2v1h-2zM10 12h2v1h-2zM6 13h4v1h-4z"/>
+  <path fill="#ef5a4a" d="M6 3h4v1h-4zM4 4h2v1h-2zM10 4h2v1h-2zM4 5h1v1h-1zM3 6h1v3h-1zM12 6h1v1h-1zM4 10h1v1h-1z"/>
+  <path fill="#cf2b2b" d="M6 4h4v1h-4zM7 5h4v6h-4zM4 6h3v4h-3zM11 6h1v4h-1zM5 10h2v1h-2zM6 11h4v1h-4z"/>
+  <path fill="#f9a89a" d="M5 5h2v1h-2z"/>
+  <path fill="#8a1c1c" d="M11 5h1v1h-1zM12 7h1v3h-1zM3 9h1v1h-1zM11 10h1v2h-1zM4 11h2v1h-2zM10 11h1v1h-1zM6 12h4v1h-4z"/>
+</svg>

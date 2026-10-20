@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>indent-less</title>
+  <path fill="#f4f6f8" d="M3 5h26v1h-26zM3 6h1v3h-1zM28 6h1v17h-1zM4 8h24v1h-24zM25 9h1v2h-1zM23 10h2v1h-2zM23 11h1v2h-1zM21 12h2v1h-2zM21 13h1v2h-1zM3 14h18v1h-18zM3 15h1v3h-1zM18 15h2v3h-2zM4 17h14v1h-14zM20 17h2v1h-2zM21 18h3v1h-3zM23 19h1v2h-1zM24 20h2v1h-2zM25 21h1v2h-1zM26 22h2v1h-2zM3 23h16v1h-16zM3 24h1v3h-1zM18 24h1v3h-1zM4 26h14v1h-14z"/>
+  <path fill="#1e2430" d="M4 6h24v2h-24zM26 9h2v13h-2zM24 11h2v9h-2zM22 13h2v5h-2zM4 15h14v2h-14zM20 15h2v2h-2zM4 24h14v2h-14z"/>
+</svg>

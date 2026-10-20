@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>terminal</title>
+  <path fill="#1e2430" d="M1 3h30v1h-30zM1 4h1v25h-1zM30 4h1v25h-1zM29 9h1v20h-1zM2 27h27v2h-27z"/>
+  <path fill="#5cb0f2" d="M2 4h28v1h-28zM2 5h1v2h-1z"/>
+  <path fill="#2f86e0" d="M3 5h20v2h-20zM25 5h1v2h-1zM28 5h1v2h-1z"/>
+  <path fill="#f4f6f8" d="M23 5h2v2h-2zM26 5h2v2h-2z"/>
+  <path fill="#1f5fb8" d="M29 5h1v3h-1zM2 7h27v1h-27z"/>
+  <path fill="#5c6478" d="M2 8h28v1h-28zM2 9h1v18h-1z"/>
+  <path fill="#3a4150" d="M3 9h26v3h-26zM3 12h3v15h-3zM8 12h21v2h-21zM6 14h2v2h-2zM10 14h19v4h-19zM8 16h2v11h-2zM6 18h2v9h-2zM10 18h3v9h-3zM19 18h10v9h-10zM13 20h6v7h-6z"/>
+  <path fill="#5ac85a" d="M6 12h2v2h-2zM8 14h2v2h-2zM6 16h2v2h-2z"/>
+  <path fill="#dde1e8" d="M13 18h6v2h-6z"/>
+</svg>

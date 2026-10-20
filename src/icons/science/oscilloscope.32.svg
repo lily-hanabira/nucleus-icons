@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>oscilloscope</title>
+  <path fill="#1e2430" d="M2 2h28v1h-28zM2 3h1v27h-1zM29 3h1v27h-1zM4 4h24v1h-24zM4 5h1v17h-1zM27 5h1v17h-1zM5 21h22v1h-22zM8 23h3v1h-3zM16 23h3v1h-3zM7 24h2v3h-2zM10 24h2v3h-2zM15 24h2v3h-2zM18 24h2v3h-2zM24 24h2v1h-2zM9 25h1v3h-1zM17 25h1v3h-1zM8 27h1v1h-1zM10 27h1v1h-1zM16 27h1v1h-1zM18 27h1v1h-1zM3 29h26v1h-26z"/>
+  <path fill="#dde1e8" d="M3 3h26v1h-26zM3 4h1v24h-1zM9 24h1v1h-1zM17 24h1v1h-1z"/>
+  <path fill="#8a92a4" d="M28 4h1v25h-1zM3 28h25v1h-25z"/>
+  <path fill="#3a4150" d="M5 5h11v2h-11zM17 5h10v7h-10zM5 7h4v1h-4zM14 7h2v1h-2zM5 8h3v1h-3zM15 8h1v1h-1zM5 9h2v2h-2zM10 9h3v4h-3zM9 10h1v3h-1zM13 10h1v3h-1zM5 11h1v1h-1zM8 11h1v2h-1zM14 11h1v2h-1zM18 12h9v1h-9zM5 14h11v7h-11zM19 14h7v1h-7zM17 15h1v6h-1zM20 15h5v1h-5zM21 16h3v1h-3zM18 17h1v4h-1zM26 17h1v4h-1zM19 18h1v3h-1zM25 18h1v3h-1zM20 19h5v2h-5z"/>
+  <path fill="#5c6478" d="M16 5h1v6h-1zM7 13h9v1h-9zM19 13h7v1h-7zM16 14h1v7h-1z"/>
+  <path fill="#5ac85a" d="M9 7h5v2h-5zM8 8h1v3h-1zM14 8h1v3h-1zM7 9h1v4h-1zM9 9h1v1h-1zM13 9h1v1h-1zM15 9h1v4h-1zM6 11h1v3h-1zM16 11h1v3h-1zM5 12h1v2h-1zM17 12h1v3h-1zM18 13h1v4h-1zM26 13h1v4h-1zM19 15h1v3h-1zM25 15h1v3h-1zM20 16h1v3h-1zM24 16h1v3h-1zM21 17h3v2h-3zM24 25h2v1h-2z"/>
+  <path fill="#b8bec9" d="M4 22h24v1h-24zM4 23h4v1h-4zM11 23h5v1h-5zM19 23h9v1h-9zM4 24h3v4h-3zM12 24h3v4h-3zM20 24h4v4h-4zM26 24h2v4h-2zM24 26h2v2h-2zM7 27h1v1h-1zM11 27h1v1h-1zM15 27h1v1h-1zM19 27h1v1h-1z"/>
+</svg>

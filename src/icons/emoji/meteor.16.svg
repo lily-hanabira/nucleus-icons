@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>meteor</title>
+  <path fill="#1e2430" d="M13 1h1v1h-1zM11 2h2v1h-2zM14 2h1v1h-1zM10 3h1v1h-1zM13 3h1v2h-1zM8 4h2v1h-2zM5 5h3v1h-3zM12 5h1v2h-1zM4 6h1v1h-1zM8 6h1v1h-1zM3 7h1v1h-1zM9 7h1v1h-1zM11 7h1v2h-1zM2 8h1v3h-1zM10 8h1v3h-1zM3 11h1v1h-1zM9 11h1v1h-1zM4 12h1v1h-1zM8 12h1v1h-1zM5 13h3v1h-3z"/>
+  <path fill="#8a1c1c" d="M13 2h1v1h-1zM12 4h1v1h-1zM11 6h1v1h-1z"/>
+  <path fill="#ef5a4a" d="M11 3h1v1h-1zM10 4h1v1h-1zM8 5h2v1h-2z"/>
+  <path fill="#e08a1c" d="M12 3h1v1h-1zM11 5h1v1h-1zM10 6h1v2h-1z"/>
+  <path fill="#fbe08a" d="M11 4h1v1h-1zM10 5h1v1h-1zM9 6h1v1h-1z"/>
+  <path fill="#8a92a4" d="M5 6h3v1h-3zM4 7h1v1h-1zM8 7h1v1h-1zM3 8h1v2h-1zM9 8h1v1h-1z"/>
+  <path fill="#5c6478" d="M5 7h3v1h-3zM4 8h1v3h-1zM6 8h3v2h-3zM5 9h1v3h-1zM6 10h1v2h-1zM7 11h1v1h-1z"/>
+  <path fill="#3a4150" d="M5 8h1v1h-1zM9 9h1v2h-1zM3 10h1v1h-1zM7 10h2v1h-2zM4 11h1v1h-1zM8 11h1v1h-1zM5 12h3v1h-3z"/>
+</svg>

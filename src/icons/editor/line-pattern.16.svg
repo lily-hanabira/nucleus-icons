@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>line-pattern</title>
+  <path fill="#f4f6f8" d="M2 2h12v1h-12zM2 3h1v2h-1zM13 3h1v2h-1zM3 4h10v1h-10zM2 6h13v1h-13zM2 7h1v2h-1zM6 7h1v2h-1zM10 7h1v2h-1zM14 7h1v2h-1zM3 8h3v1h-3zM7 8h3v1h-3zM11 8h3v1h-3zM2 10h13v1h-13zM2 11h1v2h-1zM4 11h1v2h-1zM6 11h1v2h-1zM8 11h1v2h-1zM10 11h1v2h-1zM12 11h1v2h-1zM14 11h1v2h-1zM3 12h1v1h-1zM5 12h1v1h-1zM7 12h1v1h-1zM9 12h1v1h-1zM11 12h1v1h-1zM13 12h1v1h-1z"/>
+  <path fill="#1e2430" d="M3 3h10v1h-10zM3 7h3v1h-3zM7 7h3v1h-3zM11 7h3v1h-3zM3 11h1v1h-1zM5 11h1v1h-1zM7 11h1v1h-1zM9 11h1v1h-1zM11 11h1v1h-1zM13 11h1v1h-1z"/>
+</svg>

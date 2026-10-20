@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>symbol-dashing-away</title>
+  <path fill="#1e2430" d="M17 5h11v1h-11zM13 6h4v1h-4zM28 6h1v1h-1zM9 7h4v2h-4zM29 7h1v2h-1zM13 9h4v1h-4zM28 9h1v1h-1zM17 10h11v1h-11zM12 12h16v1h-16zM7 13h5v1h-5zM28 13h1v1h-1zM3 14h4v2h-4zM29 14h1v2h-1zM7 16h5v1h-5zM28 16h1v1h-1zM12 17h16v1h-16zM17 19h11v1h-11zM13 20h4v1h-4zM28 20h1v1h-1zM9 21h4v2h-4zM29 21h1v2h-1zM13 23h4v1h-4zM28 23h1v1h-1zM17 24h11v1h-11z"/>
+  <path fill="#dde1e8" d="M17 6h11v1h-11zM13 7h4v1h-4zM28 7h1v1h-1zM12 13h16v1h-16zM7 14h5v1h-5zM28 14h1v1h-1zM17 20h11v1h-11zM13 21h4v1h-4zM28 21h1v1h-1z"/>
+  <path fill="#b8bec9" d="M17 7h11v2h-11zM12 14h16v2h-16zM17 21h11v2h-11z"/>
+  <path fill="#8a92a4" d="M13 8h4v1h-4zM28 8h1v1h-1zM17 9h11v1h-11zM7 15h5v1h-5zM28 15h1v1h-1zM12 16h16v1h-16zM13 22h4v1h-4zM28 22h1v1h-1zM17 23h11v1h-11z"/>
+</svg>

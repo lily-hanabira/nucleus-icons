@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>woman</title>
+  <path fill="#1e2430" d="M4 1h9v1h-9zM3 2h4v1h-4zM10 2h4v1h-4zM3 3h1v6h-1zM5 3h1v3h-1zM7 3h1v1h-1zM9 3h1v1h-1zM11 3h1v3h-1zM13 3h1v6h-1zM7 5h3v1h-3zM6 6h1v1h-1zM10 6h1v1h-1zM7 7h3v1h-3zM4 8h1v1h-1zM6 8h1v2h-1zM10 8h1v2h-1zM12 8h1v2h-1zM5 9h1v1h-1zM7 9h3v1h-3zM11 9h1v1h-1zM4 10h1v5h-1zM13 10h1v5h-1zM5 14h8v1h-8z"/>
+  <path fill="#6b4a1e" d="M7 2h3v1h-3zM4 3h1v5h-1zM6 3h1v1h-1zM10 3h1v1h-1zM12 3h1v5h-1z"/>
+  <path fill="#f5b83c" d="M8 3h1v2h-1zM7 4h1v1h-1zM9 4h1v1h-1zM7 8h3v1h-3z"/>
+  <path fill="#fbe08a" d="M6 4h1v1h-1z"/>
+  <path fill="#e08a1c" d="M10 4h1v2h-1zM6 5h1v1h-1zM7 6h3v1h-3z"/>
+  <path fill="#a98ae6" d="M5 10h8v1h-8zM5 11h1v2h-1z"/>
+  <path fill="#7a4cc9" d="M6 11h6v2h-6z"/>
+  <path fill="#4a2a8a" d="M12 11h1v3h-1zM5 13h7v1h-7z"/>
+</svg>

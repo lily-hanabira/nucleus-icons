@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>hot-beverage</title>
+  <path fill="#f4f6f8" d="M9 2h3v1h-3zM16 2h3v1h-3zM9 3h1v2h-1zM11 3h1v6h-1zM16 3h1v2h-1zM18 3h1v6h-1zM8 4h1v4h-1zM15 4h1v4h-1zM10 5h1v2h-1zM17 5h1v2h-1zM9 7h1v2h-1zM16 7h1v2h-1zM10 8h1v1h-1zM17 8h1v1h-1zM20 11h1v13h-1zM7 23h1v1h-1zM8 24h12v1h-12zM4 27h10v1h-10z"/>
+  <path fill="#dde1e8" d="M10 3h1v2h-1zM17 3h1v2h-1zM9 5h1v2h-1zM16 5h1v2h-1zM10 7h1v1h-1zM17 7h1v1h-1z"/>
+  <path fill="#1e2430" d="M6 9h16v1h-16zM6 10h2v1h-2zM20 10h2v1h-2zM6 11h1v14h-1zM21 11h1v14h-1zM22 12h6v2h-6zM22 14h2v7h-2zM26 14h2v7h-2zM24 19h2v2h-2zM7 24h1v3h-1zM20 24h1v3h-1zM8 25h12v2h-12zM2 26h5v1h-5zM21 26h9v1h-9zM2 27h1v2h-1zM29 27h1v2h-1zM3 28h26v2h-26z"/>
+  <path fill="#a87836" d="M8 10h12v1h-12z"/>
+  <path fill="#ffffff" d="M7 11h1v12h-1zM8 12h12v12h-12zM24 14h2v5h-2z"/>
+  <path fill="#6b4a1e" d="M8 11h12v1h-12z"/>
+  <path fill="#b8bec9" d="M3 27h1v1h-1zM14 27h15v1h-15z"/>
+</svg>

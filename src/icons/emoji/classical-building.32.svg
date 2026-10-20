@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>classical-building</title>
+  <path fill="#1e2430" d="M15 2h2v1h-2zM13 3h2v1h-2zM17 3h2v1h-2zM11 4h2v1h-2zM19 4h2v1h-2zM9 5h2v1h-2zM21 5h2v1h-2zM7 6h2v1h-2zM23 6h2v1h-2zM5 7h2v1h-2zM25 7h2v1h-2zM3 8h2v1h-2zM27 8h2v1h-2zM2 9h1v2h-1zM29 9h1v2h-1zM3 10h26v1h-26zM3 11h1v16h-1zM7 11h1v16h-1zM10 11h1v16h-1zM14 11h1v16h-1zM17 11h1v16h-1zM21 11h1v16h-1zM24 11h1v16h-1zM28 11h1v16h-1zM4 12h3v1h-3zM11 12h3v1h-3zM18 12h3v1h-3zM25 12h3v1h-3zM2 26h1v4h-1zM4 26h3v1h-3zM8 26h2v1h-2zM11 26h3v1h-3zM15 26h2v1h-2zM18 26h3v1h-3zM22 26h2v1h-2zM25 26h3v1h-3zM29 26h1v4h-1zM3 29h26v1h-26z"/>
+  <path fill="#ffffff" d="M15 3h2v6h-2zM13 4h2v5h-2zM17 4h2v5h-2zM11 5h2v4h-2zM19 5h2v4h-2zM9 6h2v3h-2zM21 6h2v3h-2zM7 7h2v2h-2zM23 7h2v2h-2zM5 8h2v1h-2zM25 8h2v1h-2zM4 11h3v1h-3zM11 11h3v1h-3zM18 11h3v1h-3zM25 11h3v1h-3zM4 13h2v13h-2zM11 13h2v13h-2zM18 13h2v13h-2zM25 13h2v13h-2z"/>
+  <path fill="#f4f6f8" d="M3 9h26v1h-26zM6 13h1v13h-1zM13 13h1v13h-1zM20 13h1v13h-1zM27 13h1v13h-1zM3 28h26v1h-26z"/>
+  <path fill="#dde1e8" d="M3 27h26v1h-26z"/>
+</svg>

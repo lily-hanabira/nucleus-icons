@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>acpi</title>
+  <path fill="#1e2430" d="M1 4h12v1h-12zM1 5h1v7h-1zM12 5h1v7h-1zM13 6h2v1h-2zM14 7h1v3h-1zM13 9h1v1h-1zM2 11h10v1h-10z"/>
+  <path fill="#5ac85a" d="M2 5h6v1h-6zM10 5h2v1h-2zM2 6h1v4h-1z"/>
+  <path fill="#f5b83c" d="M8 5h2v1h-2zM7 6h2v3h-2zM6 7h1v4h-1zM9 7h1v1h-1zM5 8h1v1h-1zM7 9h1v1h-1zM5 10h1v1h-1z"/>
+  <path fill="#2f9a3a" d="M3 6h4v1h-4zM9 6h2v1h-2zM3 7h3v1h-3zM10 7h1v3h-1zM3 8h2v2h-2zM9 8h1v2h-1zM5 9h1v1h-1zM8 9h1v1h-1z"/>
+  <path fill="#1f6b2a" d="M11 6h1v5h-1zM2 10h3v1h-3zM7 10h4v1h-4z"/>
+  <path fill="#b8bec9" d="M13 7h1v2h-1z"/>
+</svg>

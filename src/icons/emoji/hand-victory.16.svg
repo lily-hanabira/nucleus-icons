@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>hand-victory</title>
+  <path fill="#1e2430" d="M4 1h1v1h-1zM11 1h1v1h-1zM3 2h1v3h-1zM5 2h1v3h-1zM10 2h1v3h-1zM12 2h1v3h-1zM4 5h1v3h-1zM6 5h1v4h-1zM9 5h1v4h-1zM11 5h1v4h-1zM3 8h1v1h-1zM2 9h1v3h-1zM7 9h2v1h-2zM12 9h1v1h-1zM3 11h10v1h-10zM5 12h7v1h-7zM5 13h1v2h-1zM11 13h1v2h-1zM6 14h5v1h-5z"/>
+  <path fill="#fbe08a" d="M4 2h1v1h-1zM11 2h1v1h-1zM5 5h1v1h-1zM10 5h1v1h-1zM4 8h1v1h-1zM3 9h1v1h-1zM6 9h1v1h-1zM9 9h1v1h-1zM11 9h1v1h-1z"/>
+  <path fill="#e08a1c" d="M4 3h1v2h-1zM11 3h1v2h-1zM5 6h1v3h-1zM10 6h1v3h-1zM4 9h1v2h-1zM3 10h1v1h-1zM5 10h8v1h-8z"/>
+  <path fill="#f5b83c" d="M5 9h1v1h-1zM10 9h1v1h-1z"/>
+  <path fill="#2f86e0" d="M6 13h5v1h-5z"/>
+</svg>

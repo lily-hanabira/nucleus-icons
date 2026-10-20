@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>grapes</title>
+  <path fill="#f4f6f8" d="M7 1h3v1h-3zM7 2h1v2h-1z"/>
+  <path fill="#1e2430" d="M8 2h5v1h-5zM8 3h2v2h-2zM13 3h1v2h-1zM3 4h3v1h-3zM7 4h1v1h-1zM10 4h3v1h-3zM2 5h1v3h-1zM6 5h1v3h-1zM10 5h1v3h-1zM14 5h1v3h-1zM5 7h1v1h-1zM7 7h1v1h-1zM9 7h1v1h-1zM11 7h1v1h-1zM3 8h2v1h-2zM8 8h1v3h-1zM12 8h2v1h-2zM4 9h1v2h-1zM12 9h1v2h-1zM7 10h1v1h-1zM9 10h1v1h-1zM5 11h2v1h-2zM10 11h2v1h-2zM6 12h1v2h-1zM10 12h1v2h-1zM7 14h3v1h-3z"/>
+  <path fill="#2f9a3a" d="M10 3h3v1h-3z"/>
+  <path fill="#a98ae6" d="M3 5h3v1h-3zM7 5h3v1h-3zM11 5h3v1h-3zM3 6h1v1h-1zM7 6h1v1h-1zM11 6h1v1h-1zM5 8h3v1h-3zM9 8h3v1h-3zM5 9h1v1h-1zM9 9h1v1h-1zM7 11h3v1h-3zM7 12h1v1h-1z"/>
+  <path fill="#7a4cc9" d="M4 6h1v1h-1zM8 6h1v1h-1zM12 6h1v1h-1zM6 9h1v1h-1zM10 9h1v1h-1zM8 12h1v1h-1z"/>
+  <path fill="#4a2a8a" d="M5 6h1v1h-1zM9 6h1v1h-1zM13 6h1v2h-1zM3 7h2v1h-2zM8 7h1v1h-1zM12 7h1v1h-1zM7 9h1v1h-1zM11 9h1v2h-1zM5 10h2v1h-2zM10 10h1v1h-1zM9 12h1v2h-1zM7 13h2v1h-2z"/>
+</svg>

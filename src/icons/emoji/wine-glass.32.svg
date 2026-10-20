@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>wine-glass</title>
+  <path fill="#1e2430" d="M8 2h16v1h-16zM8 3h1v7h-1zM23 3h1v7h-1zM9 10h1v2h-1zM22 10h1v2h-1zM10 12h1v2h-1zM21 12h1v2h-1zM11 13h1v1h-1zM20 13h1v1h-1zM12 14h1v1h-1zM19 14h1v1h-1zM13 15h6v2h-6zM13 17h1v10h-1zM18 17h1v10h-1zM9 26h4v1h-4zM14 26h4v1h-4zM19 26h4v1h-4zM8 27h2v2h-2zM22 27h2v2h-2zM10 28h12v1h-12z"/>
+  <path fill="#ffffff" d="M9 3h14v1h-14zM9 4h2v3h-2zM10 7h1v1h-1z"/>
+  <path fill="#f4f6f8" d="M11 4h11v3h-11zM14 17h4v1h-4zM14 18h1v7h-1z"/>
+  <path fill="#dde1e8" d="M22 4h1v3h-1zM15 18h2v7h-2z"/>
+  <path fill="#cf2b2b" d="M9 7h1v2h-1zM11 7h12v1h-12zM10 10h1v1h-1z"/>
+  <path fill="#8a1c1c" d="M10 8h13v2h-13zM9 9h1v1h-1zM11 10h11v2h-11zM10 11h1v1h-1zM11 12h10v1h-10zM12 13h8v1h-8zM13 14h6v1h-6z"/>
+  <path fill="#b8bec9" d="M17 18h1v8h-1zM14 25h3v1h-3zM10 27h12v1h-12z"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>watermelon</title>
+  <path fill="#1e2430" d="M7 2h2v2h-2zM6 4h1v2h-1zM9 4h1v2h-1zM5 6h1v1h-1zM7 6h1v1h-1zM10 6h1v1h-1zM4 7h1v2h-1zM11 7h1v2h-1zM9 8h1v1h-1zM3 9h1v2h-1zM6 9h1v1h-1zM12 9h1v2h-1zM2 11h1v2h-1zM13 11h1v2h-1zM3 13h10v1h-10z"/>
+  <path fill="#ef5a4a" d="M7 4h2v1h-2zM7 5h1v1h-1zM6 6h1v1h-1zM9 6h1v1h-1zM5 7h1v2h-1zM10 7h1v1h-1zM4 9h1v1h-1zM11 9h1v1h-1z"/>
+  <path fill="#8a1c1c" d="M8 5h1v1h-1zM10 8h1v1h-1zM4 10h3v1h-3zM9 10h3v1h-3zM7 11h2v1h-2z"/>
+  <path fill="#cf2b2b" d="M8 6h1v5h-1zM6 7h2v2h-2zM9 7h1v1h-1zM5 9h1v1h-1zM7 9h1v2h-1zM9 9h2v1h-2z"/>
+  <path fill="#5ac85a" d="M3 11h1v1h-1zM12 11h1v1h-1z"/>
+  <path fill="#2f9a3a" d="M4 11h3v1h-3zM9 11h3v1h-3z"/>
+  <path fill="#1f6b2a" d="M3 12h10v1h-10z"/>
+</svg>

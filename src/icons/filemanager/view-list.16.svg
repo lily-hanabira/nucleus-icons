@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>view-list</title>
+  <path fill="#f4f6f8" d="M1 3h4v1h-4zM1 4h1v9h-1zM4 4h11v1h-11zM4 5h1v8h-1zM14 5h1v8h-1zM2 6h2v1h-2zM5 6h9v2h-9zM2 9h2v1h-2zM5 9h9v2h-9zM2 12h2v1h-2zM5 12h9v1h-9z"/>
+  <path fill="#1e2430" d="M2 4h2v2h-2zM5 5h9v1h-9zM2 7h2v2h-2zM5 8h9v1h-9zM2 10h2v2h-2zM5 11h9v1h-9z"/>
+</svg>

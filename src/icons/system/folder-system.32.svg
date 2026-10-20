@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>folder-system</title>
+  <path fill="#1e2430" d="M2 4h13v1h-13zM2 5h1v3h-1zM14 5h1v3h-1zM15 8h15v1h-15zM2 9h1v19h-1zM29 9h1v19h-1zM3 13h26v1h-26zM17 16h9v1h-9zM17 17h1v8h-1zM25 17h1v8h-1zM18 24h7v1h-7zM3 27h26v1h-26z"/>
+  <path fill="#f0d6a0" d="M3 5h11v1h-11zM3 6h1v2h-1zM4 10h24v3h-24zM3 14h26v1h-26zM3 15h1v11h-1z"/>
+  <path fill="#d9ab5a" d="M4 6h9v2h-9zM28 10h1v3h-1zM4 15h24v1h-24zM4 16h13v10h-13zM26 16h2v10h-2zM17 25h9v1h-9z"/>
+  <path fill="#a87836" d="M13 6h1v3h-1zM3 8h10v1h-10zM28 15h1v12h-1zM3 26h25v1h-25z"/>
+  <path fill="#faecc8" d="M3 9h26v1h-26zM3 10h1v3h-1z"/>
+  <path fill="#2f86e0" d="M18 17h7v2h-7z"/>
+  <path fill="#d6eefc" d="M18 19h7v1h-7zM18 20h6v3h-6z"/>
+  <path fill="#9ad3fa" d="M24 20h1v4h-1zM18 23h6v1h-6z"/>
+</svg>

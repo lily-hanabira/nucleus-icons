@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>hand-index-down</title>
+  <path fill="#1e2430" d="M4 2h9v1h-9zM4 3h1v2h-1zM12 3h1v7h-1zM2 5h2v1h-2zM2 6h1v2h-1zM3 8h1v1h-1zM4 9h1v5h-1zM7 9h5v1h-5zM6 10h1v4h-1zM5 14h1v1h-1z"/>
+  <path fill="#fbe08a" d="M5 3h7v1h-7zM5 4h1v1h-1zM3 6h1v1h-1zM5 9h1v1h-1z"/>
+  <path fill="#f5b83c" d="M6 4h5v1h-5zM5 6h6v1h-6zM4 7h1v1h-1zM5 8h1v1h-1z"/>
+  <path fill="#e08a1c" d="M11 4h1v5h-1zM4 5h7v1h-7zM4 6h1v1h-1zM3 7h1v1h-1zM5 7h6v1h-6zM4 8h1v1h-1zM6 8h5v1h-5zM6 9h1v1h-1zM5 10h1v4h-1z"/>
+</svg>

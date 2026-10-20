@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>ship</title>
+  <path fill="#1e2430" d="M7 1h4v1h-4zM7 2h1v2h-1zM10 2h1v5h-1zM5 3h2v1h-2zM8 3h2v1h-2zM5 4h1v3h-1zM1 6h4v1h-4zM6 6h4v1h-4zM11 6h4v1h-4zM1 7h1v2h-1zM14 7h1v2h-1zM2 9h1v1h-1zM13 9h1v1h-1zM3 10h1v1h-1zM12 10h1v1h-1z"/>
+  <path fill="#5c6478" d="M8 2h2v1h-2z"/>
+  <path fill="#5cb0f2" d="M6 4h1v1h-1zM8 4h1v1h-1zM1 12h2v1h-2zM5 12h2v1h-2zM9 12h2v1h-2zM13 12h2v1h-2zM3 13h2v1h-2zM7 13h2v1h-2zM11 13h2v1h-2z"/>
+  <path fill="#ffffff" d="M7 4h1v1h-1zM9 4h1v1h-1zM2 7h12v1h-12zM3 8h10v1h-10z"/>
+  <path fill="#f4f6f8" d="M6 5h4v1h-4zM2 8h1v1h-1zM13 8h1v1h-1zM12 9h1v1h-1zM0 11h16v1h-16zM0 12h1v2h-1zM3 12h2v1h-2zM7 12h2v1h-2zM11 12h2v1h-2zM15 12h1v2h-1zM1 13h2v1h-2zM5 13h2v2h-2zM9 13h2v2h-2zM13 13h2v1h-2zM2 14h3v1h-3zM7 14h2v1h-2zM11 14h3v1h-3z"/>
+  <path fill="#2f86e0" d="M3 9h9v1h-9zM4 10h8v1h-8z"/>
+</svg>

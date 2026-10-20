@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>ear</title>
+  <path fill="#1e2430" d="M6 1h4v1h-4zM5 2h1v12h-1zM7 2h4v1h-4zM9 3h3v1h-3zM10 4h2v2h-2zM11 6h1v1h-1zM10 7h1v1h-1zM9 8h1v2h-1zM10 10h1v4h-1zM7 11h1v2h-1zM6 14h4v1h-4z"/>
+  <path fill="#fbe08a" d="M6 2h1v11h-1zM9 10h1v1h-1z"/>
+  <path fill="#f5b83c" d="M7 3h2v5h-2zM9 4h1v3h-1zM7 8h1v3h-1zM8 10h1v3h-1z"/>
+  <path fill="#e08a1c" d="M10 6h1v1h-1zM9 7h1v1h-1zM8 8h1v2h-1zM9 11h1v3h-1zM6 13h3v1h-3z"/>
+</svg>

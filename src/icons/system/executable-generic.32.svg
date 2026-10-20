@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>executable-generic</title>
+  <path fill="#1e2430" d="M1 3h30v1h-30zM1 4h1v25h-1zM30 4h1v25h-1zM8 14h16v1h-16zM8 15h1v7h-1zM23 15h1v7h-1zM9 21h14v1h-14zM2 28h28v1h-28z"/>
+  <path fill="#5cb0f2" d="M2 4h28v1h-28zM2 5h1v2h-1z"/>
+  <path fill="#2f86e0" d="M3 5h20v2h-20zM25 5h1v2h-1zM28 5h1v2h-1z"/>
+  <path fill="#f4f6f8" d="M23 5h2v2h-2zM26 5h2v2h-2zM2 8h28v1h-28zM2 9h1v18h-1z"/>
+  <path fill="#1f5fb8" d="M29 5h1v3h-1zM2 7h27v1h-27z"/>
+  <path fill="#dde1e8" d="M3 9h26v5h-26zM3 14h5v13h-5zM24 14h5v13h-5zM9 15h14v1h-14zM9 16h1v4h-1zM8 22h16v5h-16z"/>
+  <path fill="#b8bec9" d="M29 9h1v19h-1zM10 16h12v1h-12zM10 17h2v3h-2zM20 17h2v3h-2zM12 19h8v1h-8zM2 27h27v1h-27z"/>
+  <path fill="#8a92a4" d="M22 16h1v5h-1zM9 20h13v1h-13z"/>
+  <path fill="#5c6478" d="M12 17h8v2h-8z"/>
+</svg>

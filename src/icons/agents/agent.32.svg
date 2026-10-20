@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>agent</title>
+  <path fill="#1e2430" d="M14 0h4v1h-4zM14 1h1v2h-1zM17 1h1v2h-1zM15 2h2v4h-2zM4 5h11v1h-11zM17 5h11v1h-11zM4 6h1v23h-1zM27 6h1v23h-1zM10 13h4v1h-4zM18 13h4v1h-4zM10 14h1v3h-1zM12 14h2v3h-2zM18 14h1v3h-1zM20 14h2v3h-2zM11 15h1v2h-1zM19 15h1v2h-1zM12 21h8v2h-8zM5 28h22v1h-22z"/>
+  <path fill="#ef5a4a" d="M15 1h2v1h-2z"/>
+  <path fill="#d6eefc" d="M5 6h22v1h-22zM5 7h1v20h-1z"/>
+  <path fill="#9ad3fa" d="M6 7h20v6h-20zM6 13h4v14h-4zM14 13h4v8h-4zM22 13h4v14h-4zM10 17h4v4h-4zM18 17h4v4h-4zM10 21h2v6h-2zM20 21h2v6h-2zM12 23h8v4h-8z"/>
+  <path fill="#5cb0f2" d="M26 7h1v21h-1zM5 27h21v1h-21z"/>
+  <path fill="#ffffff" d="M11 14h1v1h-1zM19 14h1v1h-1z"/>
+</svg>
