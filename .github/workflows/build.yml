@@ -1,0 +1,47 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Validate sources
+        run: npm run check
+
+      - name: Compile atlas
+        run: npm run build
+
+      - name: Build Storybook
+        run: npx storybook build
+
+      - name: Package release
+        run: |
+          cd dist
+          zip -r "../nucleus-icons-${GITHUB_REF_NAME}.zip" nucleus-icons-16.png nucleus-icons-32.png nucleus-icons.json LICENSE
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: nucleus-icons-${{ github.ref_name }}
+          path: nucleus-icons-${{ github.ref_name }}.zip
+
+      - name: Publish release
+        if: startsWith(github.ref, 'refs/tags/v')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "${GITHUB_REF_NAME}" "nucleus-icons-${GITHUB_REF_NAME}.zip" --title "Nucleus Icons ${GITHUB_REF_NAME}" --generate-notes

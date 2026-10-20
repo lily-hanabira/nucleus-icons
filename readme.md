@@ -1,5 +1,7 @@
 # Nucleus Icons
 
+![A strip of sample icons at 4x](docs/hero.png)
+
 This is a pixel exact icon suite for Bastion Nucleus, an agentic operating system.
 The icons are drawn as SVG on a strict pixel grid in the spirit of the Win9x era,
 coloured with a Frutiger leaning palette. The final artefact is a 256 colour PNG
@@ -78,6 +80,8 @@ bevel described in [style.md](style.md).
 
 The table is generated from the sources by `npm run contents`.
 
+![The first eight icons of every domain at 4x](docs/domains.png)
+
 ## Why it exists
 
 Bastion Nucleus needs a consistent visual language across its shell, agent
@@ -95,7 +99,10 @@ scripts/
   build.js              compiles dist/ from the sources
   lib/palette.js        palette lookup and quantisation, shared with Storybook
   lib/png.js            indexed PNG encoder
+  contents.js           refreshes the domain table in this readme
+  showcase.js           renders the sampler images in docs/
 tools/                  pixel generators that draw the SVG sources, one file per group
+docs/                   sampler images for this readme, made by scripts/showcase.js
 stories/                Storybook, one stories file per domain
 .storybook/             Storybook configuration
 style.md                the design system
@@ -164,9 +171,23 @@ sentences take a full stop instead.
 
 ## Releases
 
-Releases are tagged from `main` as `v<major>.<minor>.<patch>` after bumping the
-version in `package.json`. The version is written into the manifest. Each
-release attaches the four files from `dist/`.
+Every push runs the GitHub Actions workflow in `.github/workflows/build.yml`,
+which validates the sources, compiles the atlas, builds Storybook and uploads
+the release zip as a workflow artefact. Pushing a tag of the form
+`v<major>.<minor>.<patch>` also publishes a GitHub release with
+`nucleus-icons-v<version>.zip` attached, holding the two atlas pages, the
+manifest and the licence.
+
+To cut a release, bump the version in `package.json` so the manifest carries
+it, refresh the readme images and table, commit, then tag and push:
+
+```bash
+npm run contents && npm run showcase
+```
+
+```bash
+git tag v0.1.0 && git push origin main --tags
+```
 
 ## AI disclosure
 

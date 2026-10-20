@@ -11,6 +11,7 @@
     "draw": "node tools/draw.mjs",
     "preview": "node tools/preview.mjs",
     "contents": "node scripts/contents.js",
+    "showcase": "node scripts/showcase.js",
     "storybook": "node scripts/build.js && storybook dev -p 6006",
     "build-storybook": "node scripts/build.js && storybook build"
   },
