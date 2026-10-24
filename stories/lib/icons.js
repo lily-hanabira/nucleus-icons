@@ -3,7 +3,7 @@ const files = import.meta.glob('../../src/icons/*/*.svg', { query: '?raw', impor
 
 const byId = new Map()
 for (const [path, svg] of Object.entries(files)) {
-  const [, domain, name, size] = /\/icons\/([^/]+)\/([^/.]+)\.(16|32)\.svg$/.exec(path)
+  const [, domain, name, size] = /\/icons\/([^/]+)\/([^/.]+)\.(16|32|64)\.svg$/.exec(path)
   const id = `${domain}/${name}`
   if (!byId.has(id)) byId.set(id, { id, domain, name, svg: {} })
   byId.get(id).svg[size] = svg

@@ -1,4 +1,4 @@
-| ui | Black stencil glyphs for window chrome and controls || profile | Avatar portraits to pick from: people, bots, pets, sun, moon, system, help || filemanager | Explorer view modes and sort orders || science | Lab glassware, instruments, maths glyphs, signal views, data and beaker actions || emoji | Faces, hearts, hands, people, animals, food, places, symbols and objects on a yellow basis || traffic | Round indicator lights in six colours || editor | Toolbar glyphs: text formatting, alignment, lists, charts, tables, document actions, drawing tools || audio | Speakers and volume states, mixer, headphones, subwoofer, surround, config, asio || labels | Numbered and lettered boxes for ordering and keyed lists || apps | Bundled applications: monitors, editors, viewers, colour picker, theme, debugger, compiler, web, Nucleus tile || mail | Envelopes: closed, open, send, reply, delete, attachment, urgent || components | Building blocks: db, tensors, 3d, package, container, service, library, font, index, plugin, boxes || actions | Commands: save, delete, properties, cut, copy, paste, undo, redo, next, previous || control | Control panel applets: globe, security, graphics, agent, play, pause, find || devices | Hardware: cpu, display, disk, ports, cards, mouse, power, optical, laptops and desktops with OS badges || status | State glyphs: ok, warning, error, info, unknown, speech bubbles, light bulbs || storage | Drive, database, network mount, symlink, read only, usb || network | Globe, link, connected and disconnected || agents | Agent head and task clipboard || system | Shell objects: folders, pages, archives, scripts, executable, terminal, briefcase, the Bastion tower |# Nucleus Icons style guide
+# Nucleus Icons style guide
 
 This document defines how every icon in the set is drawn. The build enforces the
 mechanical rules. The rest is judgement, and this guide is the reference for it.
@@ -17,12 +17,14 @@ on graph paper in a fixed palette, it does not belong here.
 
 ## Canvas and sizes
 
-Every icon exists in two hand drawn variants.
+Every icon exists in two hand drawn variants, and a few brand marks add a
+third at 64. The 64 page of the atlas holds only the icons that have one.
 
 | Variant | Canvas | Safe area | Outline | Purpose |
 | ------- | ------ | --------- | ------- | ------- |
 | 16 | 16 x 16 | 1 px margin, 14 x 14 usable | 1 px | Lists, trees, menus, status bars |
 | 32 | 32 x 32 | 2 px margin, 28 x 28 usable | 1 px | Desktop, launchers, dialogs, headers |
+| 64 | 64 x 64 | 2 px margin, 60 x 60 usable | 1 px | Brand marks and launcher tiles only, optional |
 
 The 32 variant is never the 16 variant scaled up. Redraw it with more interior
 detail and the same silhouette. The 16 variant is never the 32 variant shrunk.
@@ -87,6 +89,7 @@ It is organised as ramps. Pick a ramp for a surface and stay inside it.
 | red 1 to 4 | Errors, danger, stop, recording |
 | purple 1 to 4 | Storage, databases, memory |
 | tan 1 to 5 | Folders, paper stock, wood, cardboard |
+| pink 1 to 3 | Cherry blossom, the Bloom apps, soft accents |
 
 New colours are added to the palette only when a ramp genuinely cannot express
 a surface. Atlas index 0 is reserved for transparency, so the palette holds at
@@ -99,26 +102,27 @@ domains:
 
 | Domain | Covers |
 | ------ | ------ |
-| system | Shell objects: folders, pages, archives, scripts, executables, terminals |
-| agents | Agents, tasks, plans, tools an agent may hold |
-| network | Connectivity, globe, links, hosts, transfer |
-| storage | Drives, databases, volumes, snapshots |
-| status | Small state glyphs: ok, warning, error, info, busy |
-| devices | Hardware: display, disk, ports, network adapter, mouse, power |
-| control | Control panel applets: globe, security, graphics, agent |
-| actions | Commands: save, delete, cut, copy, paste, undo, redo, next, previous |
-| components | Building blocks: databases, tensors, 3d assets, packages, containers, services |
-| mail | Envelopes and mail actions: closed, send, reply, delete |
-| apps | Bundled applications: system monitor, notepad, colour picker, theme |
+| system | Shell objects: folders, pages, archives, scripts, executable, terminal, briefcase, the Bastion tower |
+| agents | Agent head and task clipboard |
+| network | Globe, link, connected and disconnected |
+| storage | Drive, database, network mount, symlink, read only, usb |
+| status | State glyphs: ok, warning, error, info, unknown, speech bubbles, light bulbs |
+| devices | Hardware: cpu, display, disk, ports, cards, mouse, power, optical, laptops and desktops with OS badges |
+| control | Control panel applets: globe, security, graphics, agent, play, pause, find |
+| actions | Commands: save, delete, properties, cut, copy, paste, undo, redo, next, previous |
+| components | Building blocks: db, tensors, 3d, package, container, service, library, font, index, plugin, boxes |
+| mail | Envelopes: closed, open, send, reply, delete, attachment, urgent |
+| apps | Bundled applications: monitors, editors, viewers, colour picker, theme, debugger, compiler, web, Nucleus tile, the Bloom suite |
 | labels | Numbered and lettered boxes for ordering and keyed lists |
-| audio | Speakers, volume states, mixer |
-| editor | Toolbar glyphs: text formatting, alignment, lists, charts, drawing tools |
-| traffic | Round indicator lights in each colour |
-| emoji | Faces, hearts, hands, creatures and objects on a yellow basis |
-| science | Lab glassware, instruments, maths glyphs and data actions |
+| audio | Speakers and volume states, mixer, headphones, subwoofer, surround, config, asio |
+| editor | Toolbar glyphs: text formatting, alignment, lists, charts, tables, document actions, drawing tools |
+| traffic | Round indicator lights in six colours |
+| emoji | Faces, hearts, hands, people, animals, food, places, symbols and objects on a yellow basis |
+| science | Lab glassware, instruments, maths glyphs, signal views, data and beaker actions |
 | filemanager | Explorer view modes and sort orders |
-| profile | Generic avatar portraits to pick from: people, bots, pets, system |
+| profile | Avatar portraits to pick from: people, bots, pets, sun, moon, system, help |
 | ui | Black stencil glyphs for window chrome and controls |
+| brand | The Bastion Nucleus mark and other brand marks, with 64 variants |
 
 Add a domain by creating the folder and a matching `stories/<domain>.stories.js`
 file so it appears in Storybook.

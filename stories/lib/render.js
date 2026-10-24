@@ -47,7 +47,7 @@ export function rasterTile(svg, size, scale) {
 export function iconCard(icon, { scale, mode, background }) {
   const card = el('div', { ...styles.card, ...styles.backgrounds[background] })
   const pair = el('div', styles.pair)
-  for (const size of [16, 32]) {
+  for (const size of [16, 32, 64].filter(s => icon.svg[s])) {
     const tile = mode === 'source' ? svgTile(icon.svg[size], size, scale) : rasterTile(icon.svg[size], size, scale)
     tile.title = `${icon.id} ${size}px`
     pair.append(tile)

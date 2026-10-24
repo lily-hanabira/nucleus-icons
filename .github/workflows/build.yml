@@ -33,7 +33,7 @@ jobs:
       - name: Package release
         run: |
           cd dist
-          zip -r "../nucleus-icons-${GITHUB_REF_NAME}.zip" nucleus-icons-16.png nucleus-icons-32.png nucleus-icons.json LICENSE
+          zip -r "../nucleus-icons-${GITHUB_REF_NAME}.zip" nucleus-icons-*.png nucleus-icons.json LICENSE
 
       - uses: actions/upload-artifact@v4
         with:

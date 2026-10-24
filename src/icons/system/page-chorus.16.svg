@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>page-chorus</title>
+  <path fill="#1e2430" d="M3 1h7v1h-7zM3 2h1v12h-1zM11 3h1v1h-1zM12 4h1v10h-1zM4 8h8v1h-8zM4 12h8v2h-8z"/>
+  <path fill="#dde1e8" d="M4 2h1v1h-1zM8 2h4v1h-4zM9 3h2v1h-2zM4 4h3v1h-3zM11 4h1v1h-1zM4 6h1v1h-1zM7 6h5v1h-5z"/>
+  <path fill="#2f86e0" d="M5 2h3v1h-3z"/>
+  <path fill="#ffffff" d="M4 3h4v1h-4zM4 5h8v1h-8zM4 7h7v1h-7z"/>
+  <path fill="#f4f6f8" d="M8 3h1v1h-1zM11 7h1v1h-1z"/>
+  <path fill="#2f9a3a" d="M7 4h4v1h-4z"/>
+  <path fill="#f5b83c" d="M5 6h2v1h-2z"/>
+  <path fill="#d9c9f5" d="M4 9h8v1h-8zM4 10h1v1h-1z"/>
+  <path fill="#a98ae6" d="M5 10h6v1h-6z"/>
+  <path fill="#7a4cc9" d="M11 10h1v2h-1zM4 11h7v1h-7z"/>
+</svg>

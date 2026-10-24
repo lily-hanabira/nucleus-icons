@@ -40,6 +40,9 @@
     { "name": "tan-2", "hex": "#a87836" },
     { "name": "tan-3", "hex": "#d9ab5a" },
     { "name": "tan-4", "hex": "#f0d6a0" },
-    { "name": "tan-5", "hex": "#faecc8" }
+    { "name": "tan-5", "hex": "#faecc8" },
+    { "name": "pink-1", "hex": "#c95a8c" },
+    { "name": "pink-2", "hex": "#e98bb4" },
+    { "name": "pink-3", "hex": "#f6c6da" }
   ]
 }

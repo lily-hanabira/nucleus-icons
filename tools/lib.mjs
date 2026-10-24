@@ -11,6 +11,7 @@ export const ramps = {
   red: ['#8a1c1c', '#cf2b2b', '#ef5a4a', '#f9a89a'],
   purple: ['#4a2a8a', '#7a4cc9', '#a98ae6', '#d9c9f5'],
   tan: ['#6b4a1e', '#a87836', '#d9ab5a', '#f0d6a0', '#faecc8'],
+  pink: ['#c95a8c', '#e98bb4', '#f6c6da'],
 }
 export const [ink, g1, g2, g3, g4, g5, g6, white] = ramps.gray
 export const [b1, b2, b3, b4, b5, b6] = ramps.blue
@@ -19,6 +20,7 @@ export const [a1, a2, a3, a4] = ramps.amber
 export const [r1, r2, r3, r4] = ramps.red
 export const [p1, p2, p3, p4] = ramps.purple
 export const [n1, n2, n3, n4, n5] = ramps.tan
+export const [k1, k2, k3] = ramps.pink
 
 // Integers from a up to but not including b
 const range = (a, b) => Array.from({ length: Math.max(0, b - a) }, (_, i) => a + i)
@@ -187,7 +189,7 @@ export function write(out, icons) {
   for (const [id, sizes] of Object.entries(icons)) {
     const [domain, name] = id.split('/')
     mkdirSync(`${out}/${domain}`, { recursive: true })
-    for (const size of [16, 32]) writeFileSync(`${out}/${domain}/${name}.${size}.svg`, emit(size, render(size, sizes[size]), name))
+    for (const size of Object.keys(sizes).map(Number)) writeFileSync(`${out}/${domain}/${name}.${size}.svg`, emit(size, render(size, sizes[size]), name))
   }
   console.log('wrote', Object.keys(icons).length, 'icons')
 }

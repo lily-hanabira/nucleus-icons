@@ -16,6 +16,7 @@ Running the build compiles every icon into a release in `dist/`:
 | ---- | -------- |
 | `nucleus-icons-16.png` | Indexed PNG atlas of every icon at 16 x 16 |
 | `nucleus-icons-32.png` | Indexed PNG atlas of every icon at 32 x 32 |
+| `nucleus-icons-64.png` | Indexed PNG atlas of the few icons that have a 64 x 64 variant, such as brand marks |
 | `nucleus-icons.json` | Manifest including palette, page sizes and the cell positions |
 | `LICENSE` | The licence for the artwork and tooling |
 
@@ -49,32 +50,34 @@ Version 0.1 is the first corpus for Bastion Nucleus. It covers the shell,
 hardware, storage, mail, editor toolbars, a science set, a full emoji set on a
 yellow basis, avatar portraits, and black stencil glyphs for window chrome.
 Every icon has a 16 and 32 pixel variant on the shared palette with a one pixel
-bevel described in [style.md](style.md).
+bevel described in [style.md](style.md). Brand marks add a 64 pixel variant on
+their own atlas page.
 
 <!-- contents:start -->
-508 icons across 20 domains, each at 16 and 32 pixels.
+516 icons across 21 domains, each at 16 and 32 pixels.
 
 | Domain | Icons | Covers |
 | ------ | ----- | ------ |
-| actions | 10 | Commands: save, delete, cut, copy, paste, undo, redo, next, previous |
-| agents | 2 | Agents, tasks, plans, tools an agent may hold |
-| apps | 14 | Bundled applications: system monitor, notepad, colour picker, theme |
-| audio | 11 | Speakers, volume states, mixer |
-| components | 12 | Building blocks: databases, tensors, 3d assets, packages, containers, services |
-| control | 7 | Control panel applets: globe, security, graphics, agent |
-| devices | 21 | Hardware: display, disk, ports, network adapter, mouse, power |
-| editor | 35 | Toolbar glyphs: text formatting, alignment, lists, charts, drawing tools |
-| emoji | 243 | Faces, hearts, hands, creatures and objects on a yellow basis |
+| actions | 10 | Commands: save, delete, properties, cut, copy, paste, undo, redo, next, previous |
+| agents | 2 | Agent head and task clipboard |
+| apps | 17 | Bundled applications: monitors, editors, viewers, colour picker, theme, debugger, compiler, web, Nucleus tile, the Bloom suite |
+| audio | 11 | Speakers and volume states, mixer, headphones, subwoofer, surround, config, asio |
+| brand | 1 | The Bastion Nucleus mark and other brand marks, with 64 variants |
+| components | 12 | Building blocks: db, tensors, 3d, package, container, service, library, font, index, plugin, boxes |
+| control | 7 | Control panel applets: globe, security, graphics, agent, play, pause, find |
+| devices | 21 | Hardware: cpu, display, disk, ports, cards, mouse, power, optical, laptops and desktops with OS badges |
+| editor | 35 | Toolbar glyphs: text formatting, alignment, lists, charts, tables, document actions, drawing tools |
+| emoji | 243 | Faces, hearts, hands, people, animals, food, places, symbols and objects on a yellow basis |
 | filemanager | 8 | Explorer view modes and sort orders |
 | labels | 10 | Numbered and lettered boxes for ordering and keyed lists |
-| mail | 7 | Envelopes and mail actions: closed, send, reply, delete |
-| network | 4 | Connectivity, globe, links, hosts, transfer |
-| profile | 19 | Generic avatar portraits to pick from: people, bots, pets, system |
-| science | 37 | Lab glassware, instruments, maths glyphs and data actions |
-| status | 9 | Small state glyphs: ok, warning, error, info, busy |
-| storage | 6 | Drives, databases, volumes, snapshots |
-| system | 22 | Shell objects: folders, pages, archives, scripts, executables, terminals |
-| traffic | 6 | Round indicator lights in each colour |
+| mail | 7 | Envelopes: closed, open, send, reply, delete, attachment, urgent |
+| network | 4 | Globe, link, connected and disconnected |
+| profile | 19 | Avatar portraits to pick from: people, bots, pets, sun, moon, system, help |
+| science | 37 | Lab glassware, instruments, maths glyphs, signal views, data and beaker actions |
+| status | 9 | State glyphs: ok, warning, error, info, unknown, speech bubbles, light bulbs |
+| storage | 6 | Drive, database, network mount, symlink, read only, usb |
+| system | 26 | Shell objects: folders, pages, archives, scripts, executable, terminal, briefcase, the Bastion tower |
+| traffic | 6 | Round indicator lights in six colours |
 | ui | 25 | Black stencil glyphs for window chrome and controls |
 <!-- contents:end -->
 
@@ -175,8 +178,8 @@ Every push runs the GitHub Actions workflow in `.github/workflows/build.yml`,
 which validates the sources, compiles the atlas, builds Storybook and uploads
 the release zip as a workflow artefact. Pushing a tag of the form
 `v<major>.<minor>.<patch>` also publishes a GitHub release with
-`nucleus-icons-v<version>.zip` attached, holding the two atlas pages, the
-manifest and the licence.
+`nucleus-icons-v<version>.zip` attached, holding the atlas pages, the manifest
+and the licence.
 
 To cut a release, bump the version in `package.json` so the manifest carries
 it, refresh the readme images and table, commit, then tag and push:
