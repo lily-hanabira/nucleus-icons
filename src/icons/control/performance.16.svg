@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>performance</title>
+  <path fill="#f5b83c" d="M6 2h4v1h-4z"/>
+  <path fill="#5ac85a" d="M4 3h2v1h-2zM3 4h1v2h-1zM2 6h1v1h-1z"/>
+  <path fill="#cf2b2b" d="M10 3h2v1h-2zM12 4h1v2h-1zM11 5h1v1h-1zM10 6h1v1h-1zM13 6h1v1h-1zM9 7h1v1h-1z"/>
+  <path fill="#b8bec9" d="M7 4h2v1h-2zM4 7h1v1h-1zM11 7h1v1h-1z"/>
+  <path fill="#1e2430" d="M7 8h2v3h-2zM1 10h6v1h-6zM9 10h6v1h-6z"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>memory</title>
+  <path fill="#1e2430" d="M1 3h14v1h-14zM1 4h1v7h-1zM14 4h1v7h-1zM9 7h4v1h-4zM8 8h2v1h-2zM12 8h2v1h-2zM8 9h1v4h-1zM13 9h1v5h-1zM2 10h6v1h-6zM2 11h1v2h-1zM9 11h1v2h-1zM12 11h1v2h-1zM3 12h5v1h-5zM10 12h2v1h-2zM14 13h1v2h-1z"/>
+  <path fill="#8a92a4" d="M2 4h12v1h-12zM2 5h1v4h-1z"/>
+  <path fill="#b8bec9" d="M3 5h2v2h-2zM6 5h2v2h-2zM9 5h2v2h-2zM12 5h2v2h-2z"/>
+  <path fill="#5c6478" d="M5 5h1v4h-1zM8 5h1v3h-1zM11 5h1v2h-1zM3 7h2v2h-2zM6 7h2v2h-2z"/>
+  <path fill="#3a4150" d="M13 7h1v1h-1zM2 9h6v1h-6z"/>
+  <path fill="#d6eefc" d="M10 8h2v1h-2zM9 9h1v1h-1zM12 9h1v1h-1z"/>
+  <path fill="#9ad3fa" d="M10 9h2v2h-2z"/>
+  <path fill="#5cb0f2" d="M9 10h1v1h-1zM12 10h1v1h-1zM10 11h2v1h-2z"/>
+  <path fill="#d9ab5a" d="M3 11h1v1h-1zM5 11h1v1h-1zM7 11h1v1h-1z"/>
+  <path fill="#a87836" d="M4 11h1v1h-1zM6 11h1v1h-1z"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>vr-goggles</title>
+  <path fill="#1e2430" d="M10 6h12v1h-12zM10 7h1v4h-1zM21 7h1v4h-1zM7 10h3v1h-3zM11 10h10v1h-10zM22 10h3v1h-3zM6 11h1v1h-1zM25 11h1v1h-1zM5 12h1v12h-1zM26 12h1v12h-1zM2 13h3v1h-3zM27 13h3v1h-3zM2 14h1v8h-1zM29 14h1v8h-1zM3 21h2v1h-2zM27 21h2v1h-2zM6 24h1v1h-1zM14 24h4v2h-4zM25 24h1v1h-1zM7 25h7v1h-7zM18 25h7v1h-7z"/>
+  <path fill="#f4f6f8" d="M11 7h10v1h-10zM11 8h1v1h-1zM3 14h2v1h-2zM27 14h2v1h-2zM3 15h1v5h-1zM27 15h1v5h-1z"/>
+  <path fill="#dde1e8" d="M12 8h8v1h-8zM16 11h1v1h-1zM18 11h1v1h-1zM20 11h1v1h-1zM22 11h3v1h-3zM25 12h1v1h-1zM6 15h1v8h-1z"/>
+  <path fill="#b8bec9" d="M20 8h1v2h-1zM11 9h9v1h-9zM7 12h18v1h-18zM7 13h1v1h-1zM24 13h1v1h-1zM4 15h1v6h-1zM28 15h1v6h-1zM3 20h1v1h-1zM27 20h1v1h-1zM7 22h1v2h-1zM24 22h1v2h-1zM8 23h16v1h-16z"/>
+  <path fill="#ffffff" d="M7 11h9v1h-9zM17 11h1v1h-1zM19 11h1v1h-1zM21 11h1v1h-1zM6 12h1v3h-1z"/>
+  <path fill="#5c6478" d="M8 13h16v3h-16zM7 14h1v8h-1zM24 14h1v8h-1zM8 16h2v7h-2zM12 16h8v7h-8zM22 16h2v7h-2zM10 18h2v5h-2zM20 18h2v5h-2z"/>
+  <path fill="#8a92a4" d="M25 13h1v11h-1zM6 23h1v1h-1zM7 24h7v1h-7zM18 24h7v1h-7z"/>
+  <path fill="#2f86e0" d="M10 16h2v2h-2zM20 16h2v2h-2z"/>
+</svg>

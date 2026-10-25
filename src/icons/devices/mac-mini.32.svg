@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>mac-mini</title>
+  <path fill="#1e2430" d="M9 10h14v1h-14zM8 11h1v1h-1zM23 11h1v1h-1zM7 12h1v10h-1zM24 12h1v10h-1zM10 20h2v1h-2zM13 20h2v1h-2zM16 20h2v1h-2zM19 20h2v1h-2zM8 22h1v1h-1zM23 22h1v1h-1zM9 23h14v1h-14z"/>
+  <path fill="#f4f6f8" d="M9 11h14v1h-14zM8 12h1v5h-1zM23 12h1v1h-1z"/>
+  <path fill="#ffffff" d="M9 12h8v1h-8zM18 12h1v1h-1zM20 12h1v1h-1zM9 13h2v1h-2z"/>
+  <path fill="#dde1e8" d="M17 12h1v5h-1zM19 12h1v5h-1zM21 12h2v5h-2zM11 13h6v4h-6zM18 13h1v4h-1zM20 13h1v4h-1zM9 14h2v3h-2zM8 18h16v1h-16zM8 19h1v2h-1z"/>
+  <path fill="#b8bec9" d="M23 13h1v5h-1zM8 17h15v1h-15zM9 19h14v1h-14zM9 20h1v2h-1zM12 20h1v2h-1zM15 20h1v2h-1zM18 20h1v2h-1zM21 20h2v2h-2zM10 21h2v1h-2zM13 21h2v1h-2zM16 21h2v1h-2zM19 21h2v1h-2z"/>
+  <path fill="#8a92a4" d="M23 19h1v3h-1zM8 21h1v1h-1zM9 22h14v1h-14z"/>
+</svg>

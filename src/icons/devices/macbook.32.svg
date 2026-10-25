@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>macbook</title>
+  <path fill="#1e2430" d="M6 3h20v1h-20zM6 4h1v17h-1zM25 4h1v17h-1zM8 5h16v1h-16zM8 6h1v12h-1zM23 6h1v12h-1zM9 17h14v1h-14zM7 19h18v2h-18zM2 20h4v1h-4zM26 20h4v1h-4zM2 21h1v5h-1zM29 21h1v5h-1zM3 25h26v1h-26z"/>
+  <path fill="#f4f6f8" d="M7 4h1v14h-1zM15 4h1v1h-1zM17 4h8v1h-8zM3 21h1v3h-1zM10 21h1v1h-1zM12 21h17v1h-17z"/>
+  <path fill="#ffffff" d="M8 4h7v1h-7zM16 4h1v1h-1zM4 21h6v1h-6zM11 21h1v1h-1z"/>
+  <path fill="#b8bec9" d="M24 5h1v14h-1zM7 18h17v1h-17zM28 22h1v3h-1zM3 24h25v1h-25z"/>
+  <path fill="#5cb0f2" d="M9 6h14v1h-14zM9 7h1v9h-1z"/>
+  <path fill="#2f86e0" d="M10 7h12v1h-12zM10 8h1v8h-1zM14 8h8v8h-8zM12 9h2v7h-2zM11 11h1v5h-1z"/>
+  <path fill="#1f5fb8" d="M22 7h1v10h-1zM9 16h13v1h-13z"/>
+  <path fill="#9ad3fa" d="M11 8h3v1h-3zM11 9h1v2h-1z"/>
+  <path fill="#dde1e8" d="M4 22h3v2h-3zM25 22h3v2h-3z"/>
+  <path fill="#5c6478" d="M7 22h18v2h-18z"/>
+</svg>

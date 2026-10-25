@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>mini-pc</title>
+  <path fill="#1e2430" d="M5 5h6v1h-6zM4 6h1v2h-1zM11 6h1v2h-1zM3 7h1v7h-1zM5 7h6v1h-6zM12 7h1v7h-1zM5 9h1v3h-1zM7 9h1v3h-1zM9 9h1v3h-1zM4 13h8v1h-8z"/>
+  <path fill="#b8bec9" d="M5 6h1v1h-1zM8 6h3v1h-3zM6 9h1v3h-1zM8 9h1v3h-1zM10 9h1v3h-1z"/>
+  <path fill="#ffffff" d="M6 6h2v1h-2z"/>
+  <path fill="#dde1e8" d="M4 8h8v1h-8zM4 9h1v3h-1z"/>
+  <path fill="#8a92a4" d="M11 9h1v2h-1zM4 12h8v1h-8z"/>
+  <path fill="#5ac85a" d="M11 11h1v1h-1z"/>
+</svg>

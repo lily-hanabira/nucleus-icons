@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>mini-pc</title>
+  <path fill="#1e2430" d="M10 11h12v1h-12zM9 12h1v1h-1zM22 12h1v1h-1zM8 13h1v1h-1zM23 13h1v1h-1zM7 14h1v2h-1zM24 14h1v2h-1zM6 15h1v13h-1zM8 15h16v1h-16zM25 15h1v13h-1zM9 19h1v6h-1zM11 19h1v6h-1zM13 19h1v6h-1zM15 19h1v6h-1zM17 19h1v6h-1zM7 27h18v1h-18z"/>
+  <path fill="#f4f6f8" d="M10 12h1v1h-1zM17 12h1v1h-1zM19 12h3v1h-3zM9 13h1v1h-1zM22 13h1v1h-1zM8 16h9v1h-9zM18 16h1v1h-1zM20 16h1v1h-1z"/>
+  <path fill="#ffffff" d="M11 12h6v1h-6zM18 12h1v1h-1z"/>
+  <path fill="#dde1e8" d="M10 13h12v1h-12zM7 16h1v10h-1zM17 16h1v1h-1zM19 16h1v1h-1zM21 16h4v1h-4z"/>
+  <path fill="#b8bec9" d="M8 14h16v1h-16zM8 17h16v2h-16zM8 19h1v7h-1zM10 19h1v7h-1zM12 19h1v7h-1zM14 19h1v7h-1zM16 19h1v7h-1zM18 19h6v5h-6zM18 24h4v2h-4zM9 25h1v1h-1zM11 25h1v1h-1zM13 25h1v1h-1zM15 25h1v1h-1zM17 25h1v1h-1zM22 25h2v1h-2z"/>
+  <path fill="#8a92a4" d="M24 17h1v10h-1zM7 26h17v1h-17z"/>
+  <path fill="#5ac85a" d="M22 24h2v1h-2z"/>
+</svg>

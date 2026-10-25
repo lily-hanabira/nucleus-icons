@@ -54,7 +54,7 @@ bevel described in [style.md](style.md). Brand marks add a 64 pixel variant on
 their own atlas page.
 
 <!-- contents:start -->
-516 icons across 21 domains, each at 16 and 32 pixels.
+552 icons across 21 domains, each at 16 and 32 pixels.
 
 | Domain | Icons | Covers |
 | ------ | ----- | ------ |
@@ -63,9 +63,9 @@ their own atlas page.
 | apps | 17 | Bundled applications: monitors, editors, viewers, colour picker, theme, debugger, compiler, web, Nucleus tile, the Bloom suite |
 | audio | 11 | Speakers and volume states, mixer, headphones, subwoofer, surround, config, asio |
 | brand | 1 | The Bastion Nucleus mark and other brand marks, with 64 variants |
-| components | 12 | Building blocks: db, tensors, 3d, package, container, service, library, font, index, plugin, boxes |
-| control | 7 | Control panel applets: globe, security, graphics, agent, play, pause, find |
-| devices | 21 | Hardware: cpu, display, disk, ports, cards, mouse, power, optical, laptops and desktops with OS badges |
+| components | 23 | Building blocks: db, tensors, package, container, service, library, font, index, plugin, boxes, and 3d primitives, texture, material, wireframe, camera, light |
+| control | 19 | Control panel applets: globe, security, graphics, agent, playback and find, plus system settings such as language, regional, sound, themes, fonts, displays, associations, performance, profiler and memory |
+| devices | 34 | Hardware: cpu, display, disk, ports, cards, mouse, power, optical, laptops and desktops with OS badges, a range of computers, consoles and headsets |
 | editor | 35 | Toolbar glyphs: text formatting, alignment, lists, charts, tables, document actions, drawing tools |
 | emoji | 243 | Faces, hearts, hands, people, animals, food, places, symbols and objects on a yellow basis |
 | filemanager | 8 | Explorer view modes and sort orders |

@@ -107,10 +107,10 @@ domains:
 | network | Globe, link, connected and disconnected |
 | storage | Drive, database, network mount, symlink, read only, usb |
 | status | State glyphs: ok, warning, error, info, unknown, speech bubbles, light bulbs |
-| devices | Hardware: cpu, display, disk, ports, cards, mouse, power, optical, laptops and desktops with OS badges |
-| control | Control panel applets: globe, security, graphics, agent, play, pause, find |
+| devices | Hardware: cpu, display, disk, ports, cards, mouse, power, optical, laptops and desktops with OS badges, a range of computers, consoles and headsets |
+| control | Control panel applets: globe, security, graphics, agent, playback and find, plus system settings such as language, regional, sound, themes, fonts, displays, associations, performance, profiler and memory |
 | actions | Commands: save, delete, properties, cut, copy, paste, undo, redo, next, previous |
-| components | Building blocks: db, tensors, 3d, package, container, service, library, font, index, plugin, boxes |
+| components | Building blocks: db, tensors, package, container, service, library, font, index, plugin, boxes, and 3d primitives, texture, material, wireframe, camera, light |
 | mail | Envelopes: closed, open, send, reply, delete, attachment, urgent |
 | apps | Bundled applications: monitors, editors, viewers, colour picker, theme, debugger, compiler, web, Nucleus tile, the Bloom suite |
 | labels | Numbered and lettered boxes for ordering and keyed lists |

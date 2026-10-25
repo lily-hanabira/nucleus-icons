@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <title>performance</title>
+  <path fill="#f5b83c" d="M12 3h8v2h-8zM11 4h1v2h-1zM20 4h1v2h-1zM12 5h1v1h-1zM19 5h1v1h-1z"/>
+  <path fill="#5ac85a" d="M10 4h1v2h-1zM8 5h2v2h-2zM7 6h1v3h-1zM6 7h1v3h-1zM8 7h1v1h-1zM5 8h1v5h-1zM4 10h1v4h-1zM3 12h1v2h-1z"/>
+  <path fill="#cf2b2b" d="M21 4h1v2h-1zM22 5h2v2h-2zM24 6h1v3h-1zM23 7h1v1h-1zM25 7h1v3h-1zM22 8h1v2h-1zM26 8h1v5h-1zM21 9h1v2h-1zM20 10h1v2h-1zM27 10h1v4h-1zM19 11h1v2h-1zM18 12h1v2h-1zM28 12h1v2h-1z"/>
+  <path fill="#b8bec9" d="M15 6h2v2h-2zM9 9h2v2h-2zM22 10h1v1h-1zM6 15h2v2h-2zM24 15h2v2h-2z"/>
+  <path fill="#1e2430" d="M15 14h2v1h-2zM14 15h1v2h-1zM16 15h2v2h-2zM15 16h1v2h-1zM16 17h1v1h-1zM2 20h28v1h-28z"/>
+  <path fill="#8a92a4" d="M15 15h1v1h-1z"/>
+</svg>
